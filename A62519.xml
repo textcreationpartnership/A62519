@@ -1,0 +1,748 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A defence of humane learning in the ministry, or, A treatise proving that it is necessary a minister (or preacher) should be skill'd in humane learning by H. Th., St. Ch. Ch.</title>
+            <author>Thurman, Henry, d. 1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 101 KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62519</idno>
+            <idno type="STC">Wing T1139</idno>
+            <idno type="STC">ESTC R22554</idno>
+            <idno type="EEBO-CITATION">12489954</idno>
+            <idno type="OCLC">ocm 12489954</idno>
+            <idno type="VID">62339</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62519)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62339)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 299:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A defence of humane learning in the ministry, or, A treatise proving that it is necessary a minister (or preacher) should be skill'd in humane learning by H. Th., St. Ch. Ch.</title>
+                  <author>Thurman, Henry, d. 1670.</author>
+               </titleStmt>
+               <extent>[6], 50 [i.e. 66], [6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Lichfield ... for Rich. Davis,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Epistle dedicatory signed: Hen. Thurman.</note>
+                  <note>Advertisement on p. [1]-[6] at end.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Learning and scholarship --  Religious aspects --  Christianity.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62339:1"/>
+            <pb facs="tcp:62339:1"/>
+            <p>A DEFENCE OF <hi>Humane Learning</hi> IN THE <hi>MINISTRY:</hi> OR, A TREATISE Proving That it is neceſſary a Miniſter (or Preacher) ſhould be skill'd in <hi>Humane Learning.</hi>
+            </p>
+            <q>
+               <l>Frange leves Calamos, &amp; ſci<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de Thalia libellos,</l>
+               <l>Si dare Sutori <hi>Calceus</hi> iſta poteſt.</l>
+            </q>
+            <p>By <hi>H. Th. St. Ch. Ch.</hi>
+            </p>
+            <p>
+               <hi>OXFORD:</hi> Printed by <hi>A. Lichfield,</hi> Printer to the Uni<g ref="char:EOLhyphen"/>verſity, for <hi>Rich: Davis.</hi> 1660.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:62339:2"/>
+            <pb facs="tcp:62339:2"/>
+            <head>TO The Reverend and Worſhipfull <hi>IOHN WALL,</hi> Doctor of Divinity, and Preben<g ref="char:EOLhyphen"/>dary of Chriſt Church, My very good Freind and Patron.</head>
+            <opener>
+               <salute>Much Honored Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>AVING conſidered the great diligence of men formerly, and what per<g ref="char:EOLhyphen"/>fection they would arrive unto in knowledge, be<g ref="char:EOLunhyphen"/>fore they undertook the Miniſtry: and withall the earneſtneſs of ſome in theſe times, that decry learning and pretend wholy to a Spirit: and having alſo had
+<pb facs="tcp:62339:3"/>ſome thoughts to betake my ſelfe to the ſtudy of Divinity, I ſtood amazed what I ſhould doe. And truly, at firſt (through my ignorance I confeſs) I knew not whe<g ref="char:EOLhyphen"/>ther thoſe Perſons might not be in the right: Sure I was, they tooke the eaſieſt and ſhorteſt way to (if I may ſo <hi>phraſe</hi> it) <hi>Preaching.</hi> But deliberating with my ſelf, I reſolved to ſtudy the Queſtion, and to be convinced in the point. Hav<g ref="char:EOLhyphen"/>ing examined the Arguments on both ſides, my reaſon preſently condemned the haters of humane learning, as irrational, brutiſh and irreligious perſons; that took their riſe either from their <hi>ignorance,</hi> for <hi>Scientia non habet inimicum praeter ignorantem:</hi> or from <hi>malice,</hi> and a de<g ref="char:EOLhyphen"/>ſire to have religion, Iulian like, betray<g ref="char:EOLhyphen"/>ed, or laſtly from <hi>avarice,</hi> and a Sacrile<g ref="char:EOLhyphen"/>gious mind to devour the revenues, that Benefactors have beſtowed upon the Schooles of learning. Now being fully ſa<g ref="char:EOLhyphen"/>tisfied, They were guilty of ſome of theſe, or of all: and digeſting my thoughts in<g ref="char:EOLhyphen"/>to ſome order, I compil'd this ſmall Trea<g ref="char:EOLhyphen"/>tiſe,
+<pb facs="tcp:62339:3"/>the which I reſolved to expoſe to the veiw of one, that made good my <hi>Theſis</hi> in all its reſpects, and that is, <hi>Reve<g ref="char:EOLhyphen"/>rend Sir your ſelf;</hi> who have been pleaſ<g ref="char:EOLhyphen"/>ed formerly to honour me with the writ<g ref="char:EOLhyphen"/>ing out of ſome of your moſt learned Ser<g ref="char:EOLhyphen"/>mons. The which could I imitate in the ſtile, and tranſcribe in my converſation: the one would beſpeak me eminent for knowledge, the other for holyneſs: from the former I might promiſe my ſelfrepute here, and from the latter, happineſs here<g ref="char:EOLhyphen"/>after.</p>
+            <p>Indeed, all that I pretend hereby, is to acquit my ſelf with due gratitude to you for your many favours: and let me further tell you, the ſubject I handle made me reflect on the eminency of your learn<g ref="char:EOLhyphen"/>ing. And be it ſpoken to the Honour of your perſon, and the <g ref="char:V">Ʋ</g>niverſity wherein you live: My <hi>Lord Biſhop</hi> then of <hi>Lin<g ref="char:EOLhyphen"/>colne, Docter Williams</hi> (whilſt you honored his family with your learning and Piety) gave this honorable character of you, that you were the beſt read in the
+<pb facs="tcp:62339:4"/>
+               <hi>Fathers</hi> of any he ever knew.</p>
+            <p>I wiſh heartily, I had as much elo<g ref="char:EOLhyphen"/>quence to expreſs the excellency of your knowledge in all manner of learning, as I doe hereby tender reſpect and zeal to your ſervice. But I muſt comply with your Modeſty, that thinkes every one too luxuriant in your praiſes, and no body ſpa<g ref="char:EOLhyphen"/>ring enough. I ſhall ſay no more, but humbly beg your pardon for this boldneſs, and to retaine me under the title of,</p>
+            <closer>
+               <dateline>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h. Church <hi>Oxon</hi> 
+                  <date>
+                     <hi>July 14. 1659</hi>
+                  </date>
+               </dateline>
+               <salute>Moſt worthy Sir,</salute> 
+               <signed>
+                  <hi>Your moſt humble Votary and Servant</hi> Hen. Thurman.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:62339:4"/>
+            <head>THE <hi>Neceſsity of a Learned Miniſtry.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>S the Callings and Offices in this world are many, and di<g ref="char:EOLhyphen"/>vers, ſo alſo are the Gifts and Graces belonging to them. But of them all, There is not any to be compared with the office of the Miniſtry; either for variety or the excellency of their Gifts, which the Holy Ghoſt in Scripture doth ap<g ref="char:EOLhyphen"/>propriate to them: For, beſides that, they have the Gifts of <hi>Nature,</hi> as alſo thoſe we call the Gifts of <hi>Fortune;</hi> common unto them with other men: (As to the former, by the Law of God, if in nature they had any im<g ref="char:EOLhyphen"/>perfection, ſpot, or blemiſh, they might not miniſter about the Tabernacle; and as to the
+<pb n="2" facs="tcp:62339:5"/>latter, thoſe that we ſtile <hi>bona fortunae,</hi> they had their own portions, and part in the por<g ref="char:EOLhyphen"/>tions of their brethren) <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey had certain gifts of grace powred upon them, in greater varie<g ref="char:EOLhyphen"/>ty and in greater meaſure then the reſt of their fellowes. As the operation of great workes, Propheſie, Diſcerning of Spirits, diverſity of tongues, faith to work miracles, the gift of healing, the word of wiſdome, and the word of knowledg. Which is all noted by a <hi>learned tongue</hi> by Iſaiah, who ſays, <hi>The Lord hath gi<g ref="char:EOLhyphen"/>ven unto me the tongue of the learned, that I ſhould know how to ſpeak a word in ſeaſon to him that is weary.</hi>
+            </p>
+            <p>Which Gifts although they are not in every <hi>individuo,</hi> in every particular miniſter, but ſome in one, ſome in another: Nor all at one time, and in one age, but at divers times and in divers ages: Some in the beginning, for pro<g ref="char:EOLhyphen"/>pagation of the Goſpell; Some afterwards for the continuance of it; Some for times of per<g ref="char:EOLhyphen"/>ſecution; Some for peace and tranquillity of the Church; Some for the converting of the Gen<g ref="char:EOLhyphen"/>tile to Chriſt: Some for the ſaving of their ſouls which are converted; Yet this gift of the word wiſdome, or the word of knowledge, or of a <hi>learned torgue</hi> is ever required in the miniſtry, at all times, in all places, in all perſons, to all pur<g ref="char:EOLhyphen"/>poſes,
+<pb n="3" facs="tcp:62339:5"/>though in divers meaſures: Some ha<g ref="char:EOLhyphen"/>ving but one Talent, ſome two, ſome five Ta<g ref="char:EOLhyphen"/>lents, and ſo upwards.</p>
+            <p>For our Saviour doth not ſay to any, <hi>Opera<g ref="char:EOLhyphen"/>mini donec venio,</hi> to whom he hath not given one Talent at leaſt to work with all. For as he gave us ſundry callings, ſome to be <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>poſtles, ſome Evangeliſts, ſome Prophets, ſome Paſtors, and ſome Doctors; Some preaching Deacons, ſome miniſtring Deacons, not for one time, or all times, not for one place, or all places, but diverſly according to the divers times and pla<g ref="char:EOLhyphen"/>ces. In theſe times and theſe places, Prophets: In thoſe times, and thoſe places, Apoſtles; In other times and places, Evangeliſts: In other times Paſtors; At all times and in all places, <hi>Teachers,</hi> (call them by what name you pleaſe) So he gave gifts to thoſe divers <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>llings and divers times: But to <hi>Preachers</hi> and <hi>Teachers, Priests</hi> or <hi>Miniſters</hi> (who were for all times) this gift of knowledge and utterance, this gift of a <hi>learned tongue.</hi>
+            </p>
+            <p>'Tis the humour of the times now to diſ<g ref="char:EOLhyphen"/>pute about the title of a Biſhop, or Preſbyter, or Superintendent: but with names we meddle not at preſent, nor the forme of Church diſ<g ref="char:EOLhyphen"/>cipline. Indeed herein doth partly conſiſt the excellency and perfection of the ſtate of the
+<pb n="4" facs="tcp:62339:6"/>Church under Chriſt, that it is not bound, or tyed up (as twas under Moſes) to Ie<g ref="char:EOLhyphen"/>ruſalem, or any ſet place, to this or that order of miniſtry or government, to theſe, or thoſe neceſſary ceremonies; but is at liberty to appoint any thing that ſerveth for the de<g ref="char:EOLhyphen"/>cency or building up of the Church. For to preſcribe an exact forme, as Moſes did of his Church, were to make a Coat for the Moon, whereunto the Church is likned very well be<g ref="char:EOLhyphen"/>cauſe it is ſometimes increaſing, ſometimes in the wayne, ſometimes in the full, and ſome<g ref="char:EOLhyphen"/>times in the Eclipſe.</p>
+            <p>B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t that I may not ſeem to build a portall too big for my houſe, I come to the aſſertion the which I have taken upon me to defend: viz. <hi>That it is neceſſary, a Miniſter or Preacher ſhould be skild in humane Learning:</hi>
+            </p>
+            <p>This Theſis I ſhall prove by theſe enſuing Arguments:</p>
+            <p n="1">1. From the power of the tongue, &amp; that,
+<list>
+                  <item>1. As 'tis a naturall gift, common to all</item>
+                  <item>2. As 'tis a ſpeciall gift, proper to the Prieſt or Miniſter.</item>
+               </list>
+            </p>
+            <p n="2">2. In that it is neceſſary, that the Preach<g ref="char:EOLhyphen"/>er ſhould exceed the people iin knowledge,
+<pb n="5" facs="tcp:62339:6"/>ſince he takes upon him by his preaching to inſtruct them.</p>
+            <p n="3">3. Becauſe learning is eſpecially neceſſary for the underſtanding of the Scripture. And under this head I ſhall ſpeak concerning the Preachers knowing the Tongues, the liberall Arts and Sciences (under which is comprehen<g ref="char:EOLhyphen"/>ded Philoſophy,) then Hiſtory, and ſomewhat concerning Claſſicall Authors, not forgetting (the main thing of all) the Civill Law.</p>
+            <p n="4">4. From the example of,
+<list>
+                  <item>1. Moſes, Daniel, and Solomon in the old Teſtament.</item>
+                  <item>2. Paul, Stephen, Apollos, Nathaniel, Nicodemus in the New Teſtament.</item>
+                  <item>3. The Fathers, that were the Pillars of the Church, and inſtructed in hu<g ref="char:EOLhyphen"/>mane literature.</item>
+               </list>
+            </p>
+            <p n="5">5. Becauſe learning in a Preacher is ne<g ref="char:EOLhyphen"/>ceſſary in a politique ſence: And to contemne it brings in diſorder, both to the Church and Common Wealth.</p>
+            <p n="6">6. From the Vſe and End, of learning.</p>
+            <p n="7">7. And laſtly (to take in all) by anſwering all objections to the Contrary.</p>
+            <div n="1" type="argument">
+               <head>1. As to the Firſt Argument drawn from the power of the Tongue, and that,</head>
+               <p n="1">1. As 'tis a naturall gift common to all with
+<pb n="6" facs="tcp:62339:7"/>a Preacher Of what power and prevalency a learned and well managed Tongue is of, anci<g ref="char:EOLhyphen"/>ent writings witneſs ſufficiently, and dayly ex<g ref="char:EOLhyphen"/>perience teaches us. 'Tis like the <hi>Achates,</hi> which ſtone no painter can paint for the varie<g ref="char:EOLhyphen"/>ty of its colours. It peirces into mens breaſts, winding and turning, and putting them into a<g ref="char:EOLhyphen"/>ny poſture, captivating the Auditors as it pleaſes. Serpent-like it can cunningly inſi<g ref="char:EOLhyphen"/>nuate, and enter at the ſmalleſt hole; when it pleaſes, can preſently put its ſelf into a po<g ref="char:EOLhyphen"/>ſture of warre, and falles upon the enemy with a lyon like violence. It ſights, it makes peace, it can highly commend and as bitingly diſ<g ref="char:EOLhyphen"/>grace: <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t laughs, it cryes, it has the dominion over all, and is the ſole Paramont and Empe<g ref="char:EOLhyphen"/>rour of the Vniverſe. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut I may be ſilent, ſince St. James does largly deſcribe its qualities in his Epiſtle c. 2. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd (as to my purpoſe more in hand) I ſhall ſpeak of it more parti<g ref="char:EOLhyphen"/>cularly,</p>
+               <p n="2">2. <hi>As it is a ſpirituall gift proper to the Preiſt<g ref="char:EOLhyphen"/>hood, and the Organ or Inſtrument of the holy Ghoſt.</hi>
+               </p>
+               <p>For (as we know) the gift of a Tongue is common to all ſorts of men, together almoſt withall ſorts of Creatues, and is uſed to de<g ref="char:EOLhyphen"/>liver
+<pb n="7" facs="tcp:62339:7"/>ſounds, if not ſpeach, but ſpeach amongſt thoſe that are rationall; And yet they that can naturally ſay <hi>Lord</hi> and <hi>Jeſus</hi> cannot ſay, that <hi>Jeſus is the Lord</hi> but by the Holy Ghoſt, as St. Paul ſpeaks to the Corinthians: 1. <hi>Cor.</hi> c. 12. v. 3. i.e. cannot ſpeak honourably and reverent<g ref="char:EOLhyphen"/>ly, and preach his majeſty and benefits, but by a farther gift of the ſpirit (which takes not a<g ref="char:EOLhyphen"/>way learning, but lets it be with it, as its ſer<g ref="char:EOLhyphen"/>vant and ſubordinate) And ſeeing Moſes could ſpeak readily enough in civill matters, and ſay to the Hebrew, <hi>wherefore ſmiteſt thou thy fellow? Exod.</hi> 2.13. Yet when he was ſent on Gods ſpecial meſſage to Pharoah, ſaith <hi>O Lord I am not eloquent, but heavy of mouth and of a ſlow tongue</hi> Exod. 4.10 And ſeing Iſaith, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen he ſhould be ſent to preach, could ſay, <hi>He was a man of unclean lips,</hi> and he durſt not uſe them, till the Seraphin had toucht his mouth with <hi>a Coal from the Altar:</hi> And ſeing Jeremy (though God told him that he had ordained him a Pro<g ref="char:EOLhyphen"/>phet to the nations) ſays, <hi>Ah Lord God, be<g ref="char:EOLhyphen"/>hold I cannot ſpeak, for I am a Child;</hi> And ſe<g ref="char:EOLhyphen"/>ing David, when he would ſing praiſes, cryes, <hi>Lord open thou my lips,</hi> when he himſelf before had opened them to wantonneſs and murder: Finally, ſeing St. Paul before his converſion, could breath out threatnings and ſlaughter a<g ref="char:EOLhyphen"/>gainſt
+<pb n="8" facs="tcp:62339:8"/>the diſciples of the Lord: but being ſent to preach deſires the <hi>Saints to pray for him, that a doore of utterance might be given him, that he might open his mouth boldly to publiſh the ſe<g ref="char:EOLhyphen"/>crets of the Goſpell;</hi> All theſe conſidered, It is manifeſt, that it is one thing to ſpeak, and another to preach, one thing to have a tongue by nature and another thing, to have the gift of a tongue by the Holy Ghoſt. And that is a ſpeciall honour and priviledge granted to the Calling of the Miniſtry.</p>
+               <p>And here a little I muſt ſtand to obviate the pretences of the Enthuſiaſts, who would have us beleeve, that they have (like thoſe fore mentioned) ſuch a tongue from the Holy Ghoſt, and what they ſpeak is from the ſpirit within them. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o theſe I anſwere 1. That thoſe ſingle men of old that delivered Gods word were 1. publickly deſigned Prophets. 2. Ap<g ref="char:EOLhyphen"/>proved of by the high preiſt and Sanhedrim, and 3 indued with a publick ſpirit, and its doctrines were always agreeable to the other Scriptures. But how farre they are different from theſe, All men in their right ſenſes can eaſily diſcerne. But 2ly. To expoſtulate the caſe with theſe men: <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ither their ſpirit (by which they ſay they preach) is a private one, or a publick one? If private, then 'tis to them<g ref="char:EOLhyphen"/>ſelves
+<pb n="9" facs="tcp:62339:8"/>only, and uſefull to none elſe. And how often have we read, how mens malancholy tempers have deluded them, and made them fancy ſuch Chimeras? But again; If publick? Then it muſt enter in at the doore of the mi<g ref="char:EOLhyphen"/>niſtry and divine Ordinances, of Gods grace and mans Endeavours, (I repeat it again, <hi>mans Endeavours,</hi> which will take in alſo our Endeavours after knowledge and learning) and it muſt be ſubject to the Prophets, and their cenſures of it. Elſe it muſt juſtifie its extraor<g ref="char:EOLhyphen"/>dinarineſs by miraculous effects, the which none of us yet ever ſaw. And ſuch a ſpirit they muſt confeſſe, they have not.</p>
+               <p>I think, we never read of any Doctors, that have been inſtrumentall in preaching the word, ſince the Apoſtles: but what had the ground-work of humane learning laid in them. And no doubt, God moſt extraordinarily giv<g ref="char:EOLhyphen"/>ing the Apoſtles the gift of Tongues by the holy Ghoſt, did infuſe all thoſe habits of Science which we are now put upon to acquire: though, they were not taught as we are, to make a Syl<g ref="char:EOLhyphen"/>logiſme perhaps in <hi>Barbara,</hi> or told there were ten Praedicaments. I confeſſe our Philoſophy, Arts, and all humane Sciences without Gods ſpirit are but ſome glimmerings; but like the Starres that ſhine in the night they keep our
+<pb n="10" facs="tcp:62339:9"/>reaſon from being quite in the darke. True, when Gods ſpirit is ſuperadded, like the Sun ariſing, it out ſhines all thoſe ſmaller lights, but they are not put-out, but remaine ſtill as uſefull.</p>
+               <p>Now of this gift of a learned tongue, nothing is ſpoken but favours and bleſſings. <hi>Solomon</hi> that moſt learned P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cher, ſays of it in his Proverbs, <hi>'Tis as choice Silver,</hi> c. 10. v. 20. <hi>The Tongue of the wiſe man is health.</hi> v. 21. <hi>The lips of the righteous feed many. The tongue of the wiſe is health. The law of the wiſe is a fountaine of life.</hi> And the like. And whatſoever things proceed from ſuch learned preachers, they are ſtyl'd by <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. Be<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nard <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er. 2. <hi>in reſur. Dui. aro<g ref="char:EOLhyphen"/>mata,</hi> ſweet ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ices, and the inſtruments of teach<g ref="char:EOLhyphen"/>ing, reproving, and inſtructing in righteouſneſs that the man of God may be made perfect unto all good works. And therefore this gift of a learned tongue is very excellently called <hi>oleum effuſum,</hi> Oyl powred out to the com<g ref="char:EOLhyphen"/>fort of others, which is better then <hi>oleum in<g ref="char:EOLhyphen"/>fuſum,</hi> Oyl powred only in to ones own com<g ref="char:EOLhyphen"/>fort. <hi>For they that are wiſe</hi> (<hi>ſays</hi> Daniel) <hi>ſhall ſhine as the brightnes of the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>irmament: but they that turn others unto righte<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſneſs ſhall ſhine as the Starres for ever and ever.</hi>
+               </p>
+               <p>There is a double operation of the Holy
+<pb n="11" facs="tcp:62339:9"/>Ghoſt in miniſters; the one, whereby it doth inwardly ſtrengthen them with virtues to their own ſalvation: a 2d. whereby it doth outward<g ref="char:EOLhyphen"/>ly adorn them with gifts to the ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lvation of o<g ref="char:EOLhyphen"/>thers. As for example, <hi>Faith, Hope</hi> and <hi>Charity,</hi> and ſuch other virtues, are given unto them<g ref="char:EOLhyphen"/>ſelves, <hi>dan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur illis propter illos:</hi> without hich they could not be ſaved. But the word of wiſ<g ref="char:EOLhyphen"/>dome, and the word of knowledge, a learned tongue, propheſying and ſuch other gifts (which men may want and yet be ſecure of their ſal<g ref="char:EOLhyphen"/>vation) are given unto miniſters to be <hi>poured out,</hi> and ſpent to the profit of their neighbours. And theſe operations of the Holy Ghoſt, as Miniſters receive them to their own comfort are call'd <hi>infuſiones,</hi> and as they pour them out upon others are ſtil'd <hi>effuſiones.</hi> And of what force and efficacy they are of to a Miniſter in his function, has in part been ſhewen and will appear further in what does follow.</p>
+            </div>
+            <div n="2" type="argument">
+               <head>2 Arg. <hi>In that it is abſolutely neceſſary, that the Preacher ſhould exceed the people in know<g ref="char:EOLhyphen"/>ledge, ſince he takes upon him by his Preaching to inſtruct them.</hi>
+               </head>
+               <p>It is at leaſt an imperfection in the land, where it may be ſaid: <hi>Such as is the people for know<g ref="char:EOLhyphen"/>ledge
+<pb n="12" facs="tcp:62339:10"/>ſuch is the Teacher.</hi> And the people of this land, eſpecially in Cities and great towns are no leſſe exerciſed in the body of the Scrip<g ref="char:EOLhyphen"/>ture, and the tranſlated Commentaries of late writers, then their miniſters are. And if their knowledge reach no further, may they not tru<g ref="char:EOLhyphen"/>ly ſay of them, <hi>ſuch people ſuch preiſt?</hi> Again. If it be the nature, cuſtome, and practice of the people, <hi>nihil tam vereri, quam ne dubitare aliquâ de re videantur</hi> (as Tully ſays of Velle<g ref="char:EOLhyphen"/>ius) <hi>tanquam ex Deorum conſilio deſcendiſſent:</hi> as though they dwelt in the boſome of the Fa<g ref="char:EOLhyphen"/>thers and ancient Counſails; How ſhall Mi<g ref="char:EOLhyphen"/>niſters be able to reprove and reforme them, being endued but with the ſame meaſure of knowledge? How ſhall they take them up that be fallen, haveing no more ſtrength in their armes then they? If induſtry, memory, ut<g ref="char:EOLhyphen"/>terance, and ſtrong lungs be to be found a<g ref="char:EOLhyphen"/>mong the people in as high a degree, as thoſe of the Clergy; and they have for their advan<g ref="char:EOLhyphen"/>tage boldneſs (which is <hi>Soboles imperitiae</hi>) the ſeed and off-ſpring of their ignorance: for a<g ref="char:EOLhyphen"/>las what is their knowledge but armed igno<g ref="char:EOLhyphen"/>rance againſt themſelves?) will not the hand deſpiſe the eye, if it ſee no more then it does? And the body contemne the head, if their gifts be equall? Every Saul will be ready to thruſt
+<pb n="13" facs="tcp:62339:10"/>them out of their Chaires. Pulpits and Offices, if they can Propheſie as well as they. Yea, to our greif and the ruine of the Church, we now experience, what a Father of old (ſpeaking to the like purpoſe) feared, <hi>nè hic ſecurim, ille ſtivam, alius pellem, alius ligna, alius de<g ref="char:EOLhyphen"/>ni<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> forcipem ab<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iciens, ſe <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>c conſerant, alius<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> alium circa menſam ſacro ſanctam, &amp; Pulpita &amp; Cathedras protrudant &amp; comprimant.</hi> We in this nation are paſt fearing, and the words are made good amongſt us, for already, <hi>hic ſe<g ref="char:EOLhyphen"/>curim, ille ſtivam, alius pellem, alius ligna, alius deni<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> forcipem abjiciens ſe huc contulit &amp;c.</hi> I wiſh it could not be ſaid, 'Tis no the trade of Preaching, and the marchandiſe of Reli<g ref="char:EOLhyphen"/>gion.</p>
+               <p>But ſtay: Perhaps ſome one may ſay, I miſs of my mark: and that <hi>like People like Teacher</hi> is no inconvenience, where the people may be learned. And <hi>I would to God,</hi> (ſaid Moſes to Joſhua, <hi>Num.</hi> 11.29. when he ſeemed to envy the Propheſie of <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dad and Medad) <hi>that all could Propheſie.</hi> But if we look into that place, we ſhall ſee, that that gift of Propheſie was extra<g ref="char:EOLhyphen"/>ordinary and miraculous to ſome: upon whom God by promiſe, and upon ſpeciall purpoſe poured out his ſpirit: If not for that inſtance (as ſome think) yet for ſomeone ſpecial regard,
+<pb n="14" facs="tcp:62339:11"/>as to make them able to governe the people As for this greater knowledge in the people, it enforceth a greater knowledg in the miniſtry: For as the knowledge which now is found in many of our Artificers, would have ſeemed a good meaſure for a pariſh Prieſt in time of Popery, when the people were muzled up in ignorance and error: ſo muſt there alſo be an anolagy and proportion between the know<g ref="char:EOLhyphen"/>ledge of the people now adayes, and our Prieſts and Miniſters. A type of this is noted to be the appearing of the mighty God Jehova on the mountaine, where only Moſes and Aaron were admitted to ſee his back parts, and that which might be ſeen of him ſtanding on the mountaine. But <hi>Sacrorum adminiſtri,</hi> who were not the Prieſts and Levites, (for as yet they were not ordained, but (as I yra notes out of R. Solomon, Jun. and Tremellius affirme the firſt born of the Princes of the twelve tribes, who uſed to offer Sacrifice) Theſe, I ſay <hi>Sa<g ref="char:EOLhyphen"/>crorum adminîſtri,</hi> and the people might not touch the skirt of the Hill, but that which God ſaid, they ſhould <hi>learn,</hi> not immediately from him but by the meanes of Moſes and Aaron. A notable figure of the excellency of knowledge, which is required in the miniſtry above the ca<g ref="char:EOLhyphen"/>pacity of the common people: arguing, that
+<pb n="15" facs="tcp:62339:11"/>the people muſt learn, and the miniſter teach: the preacher ſeek to learn, whatſoever may be known of God, the people ſhould be content with whatſoever is anſwerable to their ca<g ref="char:EOLhyphen"/>pacity, and profitable for their edifying.</p>
+               <p>I muſt acknowledge, that this title or attri<g ref="char:EOLhyphen"/>bute of <hi>learning</hi> may be attributed to every good Chriſtian. For how may he be accompted unlearned, who (if he knew nothing elſs) hath learned out of the Apoſtles Creed, <hi>ultra mun<g ref="char:EOLhyphen"/>danam philoſophiam,</hi> (as I raſmus cals it) a phi<g ref="char:EOLhyphen"/>loſophy beyond the philoſophy of the world? which neither Pythagoras nor Plato, but jeſus Chriſt, the ſon of the living God hath deli<g ref="char:EOLhyphen"/>vered unto us. How may he be accompted unlearned, who hath had Chriſt and his holy Apoſtles for his Schoolmaſters, and hath learn<g ref="char:EOLhyphen"/>ed of them the right path way to felicity? And they which have not learned theſe things how are they called Chriſtians? And how can they be called rude and ignorant, which have learned and beleived them? For (as E<g ref="char:EOLhyphen"/>raſmus ſaies again) <hi>nulla eſt ſancta ruſticitas, ſicut nulla eſt ruſticana ſanctitas: ubicur<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> enim eſt ve<g ref="char:EOLhyphen"/>ra ſanctitas, ibi eſt magna Philoſophia, minime<g ref="char:EOLhyphen"/>que vulgaris eruditio.</hi> But yet amongſt theſe learned there is a difference. For they excell and exceed the reſt in learning, unto whom
+<pb n="16" facs="tcp:62339:12"/>it is given by a ſpeciall prerogative from the Holy <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hoſt to inſtruct others to righteouſneſs unto whom the Lord hath given a pure and aclean heart a principall and invincible ſpirit the wiſdome of Serpents joyned with the in<g ref="char:EOLhyphen"/>nocency of doves, a tongue like the pen of a ready writer, a learned tongue to know how to miniſter a word in ſeaſon to thoſe that are wea<g ref="char:EOLhyphen"/>ry; lips in which not only the Flexanimis Pytho of the Heathen hath its reſidence: but on which are poured heavenly graces, by the power and efficacy of the Holy Ghoſt.</p>
+               <p>For its fit and convenient, that that they ex<g ref="char:EOLhyphen"/>cel others in degree and calling ſhould excel in virtue and gifts. There are already ſtarted by the Caſuiſts five Thouſand caſes of Conſcience and dayly more wiſe: and therfore Miniſters that are to anſwer the doubts of a whole king<g ref="char:EOLhyphen"/>dome, whoſe office it is to determine in di<g ref="char:EOLhyphen"/>vine ſcruples ſhould be men of extraordinary endowments. For their office is of larger ex<g ref="char:EOLhyphen"/>tent then to make. Sermons, and ſpeak well e<g ref="char:EOLhyphen"/>nough to the pleaſing of vulgar and undiſcern<g ref="char:EOLhyphen"/>ing Auditors. Neither is it enough that they be good amongſt the bad, learned amongſt the ignorant; but they muſt be beſt amongſt the good, and of greateſt knowledge among the learned. <hi>Ye are the light of the world</hi> (ſays
+<pb n="17" facs="tcp:62339:12"/>our Saviour Mat. 5.14) <hi>rayes,</hi> as 'twere, iſſuing fro<g ref="char:cmbAbbrStroke">̄</g> the fountaine of eternall light. Chriſt therefore, we ſee, beſpeakes his miniſters to be as torches or eminent luminaries, like the Sun in the fir<g ref="char:EOLhyphen"/>mament, for all the world to be enlightned by it. Their luſtre ſhould be great as at noon day able to diſpell all the miſts of error; for a knowledge in them, like the twilight is not ſufficient, and is next unto darkneſs.</p>
+               <p>Learning <hi>quà</hi> learning, i.e. an ability to teach others, challenges a natural preheminence and ſuperiority. For all dominion is naturally founded in the underſtanding and we ſubmit that imperious faculty to none but God and our Teachers. Hence Paul is ſaid to have ſate at his Tutors feet, which implyes duty and ſubor<g ref="char:EOLhyphen"/>dination. Now a preſidency or authority in the miniſtry is intimated by that power our Saviour gave his Apoſtles. It is ſaid Mat. 28.19. <hi>All power</hi> is given unto me in heaven and in earth, <hi>goe yee therefore and teach.</hi> So that now the Apoſtles had a power given them<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore the underſtandings of the people. Now how can unlearned perſons regulate mens un<g ref="char:EOLhyphen"/>underſtandings? And ſo how can they be <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Preſidents and gover<g ref="char:EOLhyphen"/>nours of the Church, if they know no more then thoſe they pretend to inſtruct? Wiſemen (we
+<pb n="18" facs="tcp:62339:13"/>know) are only fit to governe: and learning maintaines that relation, whilſt it keepes of contempts, ſtops the mouthes of all gainſayers, ſearches out truth and ſtates what it is, and muſt neceſſarily force all that are in their ſen<g ref="char:EOLhyphen"/>ſes to honour it. I am ſure amongſt wiſer per<g ref="char:EOLhyphen"/>ſons it has always been eſteemed a title of no<g ref="char:EOLhyphen"/>bility and great eminency. <hi>Ego enim, quid a<g ref="char:EOLhyphen"/>liud munificentiae adhibere potui, ut ſtudia, ut ſic dixerim, in umbra educata, è quibus Claritu<g ref="char:EOLhyphen"/>do venit,</hi> ſaid Seneca to Nero. No doubt but learning enableth men to procure more favour, and bring more reputation to religion by the greatneſſe of their parts. Great then is the boldneſs of thoſe illiterate perſons that ven<g ref="char:EOLhyphen"/>ture upon this calling with more confidence by reaſon of their greater ignorance, and being not able to diſcharge the duty of a miniſter by reaſon of their want of learning, they become <hi>workmen who need to be aſhamed, not rightly dividing the word of Truth.</hi>
+               </p>
+            </div>
+            <div n="3" type="argument">
+               <head>3. Arg. <hi>Becauſe learning is eſpecially neceſſary for the underſtanding of the Scriptures.</hi>
+               </head>
+               <p>This I lay downe for a ground work, that there is <hi>unum neceſſarium</hi> with Mary, to ſet at the feet of Jeſus and his Apoſtles; and hear and
+<pb n="19" facs="tcp:62339:13"/>read the Scriptures. And that we muſt, not with the Egyptian Dog <hi>bihere &amp; fugere,</hi> taſt of <hi>Nilus</hi> and begone, &amp; be ſatisfied with a draught. But (as tis ſaid of wiſdome) we muſt ſo <hi>eat of them, that we may be the more hungry after them.</hi> And as it is ſaid of the woundrous works of God: <hi>That when a man hath conſidered them, and done his beſt. he muſt begin againe: and when he thinks to come to an end he muſt goe again to his firſt labour; for the con<g ref="char:EOLhyphen"/>ſideration is infinite.</hi> So when we have read o<g ref="char:EOLhyphen"/>ver the Scriptures and conſidered them, and done our beſt, we muſt begin again. And when we think we have made an end, goe again to our firſt labour, for the knowledge and profit of them is infinite. Having, I ſay, ſet this down for a rule and ground, that the Scriptures are all-ſufficient and only ſufficient for the worke of our Salvation, and that they are the ground of all Truth; It is not abſurd, ſays Clement the Pope in the Decrees, diſt. 37. <hi>Si aliquid etiam ex eruditione communi, ac libera<g ref="char:EOLhyphen"/>libus ſtudiis quae forte etiam in pueritia attigimus ad aſſertionem veri dogmatis conferimus.</hi> And ſo I ſay, a third Reaſon why a miniſter ſhould be skild in humane learning, may be the great ne<g ref="char:EOLhyphen"/>ceſſity and help it is of, for the underſtanding the holy Scriptures.</p>
+               <pb n="20" facs="tcp:62339:14"/>
+               <p>And here I muſt deſcend to particulars, and ſpeak</p>
+               <p n="1">1. Of the ſtudy of the Tongues, Hebrew and Greek, in the which the holy Scripture is wrot.</p>
+               <p>Now theſe are neceſſary for five Reaſons.</p>
+               <p n="1">1. Since, there is no tranſlation that is not in many places faulty: and thoſe that are the moſt learned, diſagree much in interpret<g ref="char:EOLhyphen"/>ing the meaning of thoſe places; how ſhall that miniſter, that is ignorant of the Originall Tongues be able to conſult the Context, to ſa<g ref="char:EOLhyphen"/>tisfye and informe his own judgment and o<g ref="char:EOLhyphen"/>thers that will cavill with him? He muſt pre<g ref="char:EOLhyphen"/>ſently be at a ſtand, and confeſſe his ignorance. He that it forced to read a tranſlation, can no more clearly underſtand the Authors Original, then thoſe that look through a thick black-bag can ſee the graces of a picture. And remem<g ref="char:EOLhyphen"/>ber, waters the further they run from the fountain, the leſſe clear they are, and more impure.</p>
+               <p n="2">2. Every tongue has its Emphaſis and particular graces, that can never be genuinely expreſt in another language. The exacteſt Tranſlator can never lively expreſſe that Ma<g ref="char:EOLhyphen"/>jeſty and ſublimity of ſtile the Holy Ghoſt writes in. Never did any interpreter reach the Authors mind in every thing, and the beſt has
+<pb n="21" facs="tcp:62339:14"/>erred in ſomethings. So that I muſt commend Themiſto<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>les, that being in baniſhment, and having leave to ſpeak to the King of Perſia, choſe rather to ſpend a twelvemonths time firſt to learn the tongue rather then diſcover his mind by proxie.</p>
+               <p n="3">3. Becauſe it has been the practice of the Church always, for thoſe that preach to learn thoſe tongues. Origen would had the He<g ref="char:EOLhyphen"/>brew words to have been tranſlated into no o<g ref="char:EOLhyphen"/>ther tongue, but kept uncorrupted by thoſe that knew them. They report Hierom, a ve<g ref="char:EOLhyphen"/>ry old man, to have learnt the Hebrew Rudi<g ref="char:EOLhyphen"/>ments. And Luther was of opinion to neglect the ſtudy of theſe tongues, were to recall the antient barbariſme. This is ſure, that when in the year 1470, the knowledg of them was re<g ref="char:EOLhyphen"/>vived, the Egyptian darkneſſe was diſpel'd, and the Goſpell ſhined forth in greater ſplen<g ref="char:EOLhyphen"/>dor.</p>
+               <p n="4">4. Becauſe they that by the help of them have ſearch't the context, have proved amongſt us the moſt eminent Divines: witneſs <hi>Luther, Melancthon, Muſculus, Mercer, Paraeus and</hi> o<g ref="char:EOLhyphen"/>thers; Moreover the Papiſts the more any of them were skild in theſe tongues, were by ſo much the leſſe corrupted then others, as <hi>Montanus, Maſius</hi> and others. And others
+<pb n="22" facs="tcp:62339:15"/>(though in other things very learned) through their ignorance herein have erred very groſ<g ref="char:EOLhyphen"/>ly, as their Commentaries ſufficiently wit<g ref="char:EOLhyphen"/>neſs againſt them.</p>
+               <p n="5">5. Becauſe learned men have always e<g ref="char:EOLhyphen"/>ſteemed highly of the ſtudy of them. <hi>Luther</hi> preferred his knowledg of the Hebrew lan<g ref="char:EOLhyphen"/>guage before all riches. So <hi>Melancthon, Mer<g ref="char:EOLhyphen"/>cer, Pareus</hi> and others. And don't retort up<g ref="char:EOLhyphen"/>on me, That there have been very learned di<g ref="char:EOLhyphen"/>vines without them, as Bernard and Aquinas For in their dayes the ſtudy of thoſe tongues was not quite ſo neceſſary as it is in ours. For in their times all Europe was of the ſame faith and worſhipped God in the ſame manner; whereas in our daies, there are as many religi<g ref="char:EOLhyphen"/>ons almoſt as men. Notwitſtanding though, Thoſe Fathers who by reaſon then of their great troubles and Cares had not leauſure ſo to doe, perſwaded others to ſtudy them: And if they could not for their buſineſſe, that then they ſhould addreſſe themſelves to the moſt eminent linguiſts. As to the Greek language in particular, he that is ignorant of it, muſt be alſo of the new Teſtament, the Septuagint, A<g ref="char:EOLhyphen"/>quila, Symmachus and Theodotion and in ſhort the Greek Fathers: And truly he that willfully will neglect theſe, may as well kick
+<pb n="23" facs="tcp:62339:15"/>Divinity out of doores. In a word, as to tongues which a Miniſter ſhould know, the Croſſe of Chriſt tells us, where our Saviours name was wrote in <hi>Hebrew, Greek,</hi> and <hi>Latin.</hi>
+               </p>
+               <p n="2">2. <hi>The liberall Arts and Sciences.</hi>
+               </p>
+               <p n="1">1. <hi>Grammar.</hi> For this tels us the various acception of a word, and how ſuch a Conjun<g ref="char:EOLhyphen"/>ction of number, caſe, or gender alters the ſenſe, from whence ſo many diſputes have ri<g ref="char:EOLhyphen"/>ſen. Yea particles themſelves miſunderſtood and miſplaced have made parties and diviſions in Religion.</p>
+               <p n="2">2. <hi>Rhetorick.</hi> This is as neceſſary to a Preacher, as the eye is to the head: and of what power and force 'tis of to win upon an Auditory I have briefly ſpoak before. I muſt confeſſe ſome have miſuſed it, but they that rightly apply it cannot bee diſcommended: ſo that their Eloquence be according to the na<g ref="char:EOLhyphen"/>ture of the Subject, high, majeſtick, and hea<g ref="char:EOLhyphen"/>venly: ſuch as we find in Moſes and the Pro<g ref="char:EOLhyphen"/>phets and St. Paul, and other the holy writers; more <hi>Elegant,</hi> I ſay, then the greateſt Rheto<g ref="char:EOLhyphen"/>ricians amongſt the Greekes and Romanes. I appeal to St. Auſtin <hi>l.</hi> 4. <hi>c.</hi> 6. <hi>de Doct. Chriſt.</hi> that obſeves out of St. Pauls Epiſtles and the prophecy of Amos, <hi>Colons, Commas, Periods</hi>
+                  <pb n="24" facs="tcp:62339:16"/>and <hi>Figures</hi> more accurately then any Rheto<g ref="char:EOLhyphen"/>rician has done out of Demoſthenes or Cicero. And if you approve not of the floriſhes of Rhe<g ref="char:EOLhyphen"/>torick, and the adorning of things, goe and ac<g ref="char:EOLhyphen"/>cuſe God (if you dare) that has Created ſo beautifull a heaven and earth, and the orna<g ref="char:EOLhyphen"/>ments thereof. If our Shoes muſt be ſo fine, why may not our tongue receive its graces alſo? by whoſe eloquence we are eſpecially diſtinguiſh<g ref="char:EOLhyphen"/>ed from Brutes?</p>
+               <p n="3">3. <hi>Logick.</hi> Py this we underſtand the contexture, method, argumentation and analy<g ref="char:EOLhyphen"/>ſis of the Scripture. By this only we know when we ſpeak truth or no. It is as the helme to guide us, and the rule to meaſure all things by. Here is our ſtore-houſe for all arguments to prove our Text by, and without it we ſhould all be confounded, and know not how to get out of the dark. Our Saviour was the great ma<g ref="char:EOLhyphen"/>ſter of it: whilſt we read of him dayly diſputing in the Temple, how cloſely does he prove his doctrine, retorting upon the Phariſees their own arguments, and wholly ſilencing them with his unanſwerable Dilemmas? What ſhall I ſay of Pauls famous Sorites, whereby he proves God to have foreſawen, called and juſtified by faith, the Elect? Take this Science away, and I will warrant you, the Jeſuites will
+<pb n="25" facs="tcp:62339:16"/>eaſily diſpute us out of Proteſtantiſme. Take away this touch-ſtone, and they will make any metrall ſeem good with us, and paſs for pure Gold. <hi>Whether free-will be to be grant<g ref="char:EOLhyphen"/>ed? Whether there is an univerſal redemption, or no?</hi> and a numberleſs ſuch like propoſitions of great moment are to be examined hence by the Rules of <hi>de omni &amp; de nullo,</hi> and other rules in this Science. I will only inſert a ſtory that I have heard of one (of what ſect he was of, I mention not, becauſe I would give no body of<g ref="char:EOLhyphen"/>fence) that ſhould come peremptorily to a Dr. of this nation to diſpute his Tenents with him. The Dr. entertain'd him freindly, and firſt of all askt him what profeſſion he was of: A <hi>Taylor,</hi> ſays he. Very well ſays the Dr. but preethee freind, let me ask thee one Queſtion. What's that, ſays, the <hi>Taylor?</hi> Didſt thou never <hi>put a peece of new cloath into an old Garment?</hi> Perhaps I have, what then? Then, ſays the Doctor, I will prove you out of Scripture to be <hi>no man.</hi> That I don't beleive, ſays the <hi>Taylor,</hi> Well I'l doe it thus: Says our Saviour, <hi>No man putteth new cloath into an old Garment,</hi> but you confeſſe you have, therefore you are no man. The man was aſtouiſhed at it: and find<g ref="char:EOLhyphen"/>ing himſelf to be caught in a Labyrinth, knew not what way to get out, but by telling the
+<pb n="26" facs="tcp:62339:17"/>Doctor, he was a Sophiſter. Thus we may ſee how neceſſary Logick is, and that without it a Miniſter will almoſt as abſurdly be ſurpriz'd, as this ſimple fellow was.</p>
+               <p n="4">4. <hi>Ethicks.</hi> This Science was the Hea<g ref="char:EOLhyphen"/>thens only divinity, and has God for his Au<g ref="char:EOLhyphen"/>thor, from whence we know him to be the <hi>Sum<g ref="char:EOLhyphen"/>mum bonum,</hi> and ſo to attract the will unto him. Hence we know how the will obays the under<g ref="char:EOLhyphen"/>ſtanding, what virtues and what vices are, thoſe to be followed, theſe are to be avoided. What the paſſions are and how to be moderated, ſe<g ref="char:EOLhyphen"/>verall diſtinctions of ſin and ignorance, and how farre we are, or are not at ſometimes excuſa<g ref="char:EOLhyphen"/>ble. In ſhort moſt of the Queſtions of Polemicall Divinity are grounded upon this Science, and decided from it. It's ſaid to be the Hand-maid to, a degree of approximation if not of partici<g ref="char:EOLhyphen"/>pation of Divinity. Of which may be ſaid, as it is of the aire, compare it with the heavens and it is a kind of earth, compare it with the earth and it is a kind of heaven: So compare morall Phyloſophy with Divinity 'tis much inferiour, compare it with the other lower arts, 'tis a Di<g ref="char:EOLhyphen"/>vinity.</p>
+               <p n="5">5. <hi>Naturall Philoſophy.</hi> Hence a Di<g ref="char:EOLhyphen"/>vine h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s many things concerning the Soul, of the nature of ſtones, plants, living Creatures
+<pb n="27" facs="tcp:62339:17"/>&amp;c. And the Scripture in many places ſends us to the la<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of nature. Prov. 6.6. <hi>Goe to the Ante thou Sluggard, conſider her ways and be wiſe:</hi> where the Holy Ghoſt would ſpur us up to be induſtrious by the example of an abject worme. Jer. 8.7. <hi>The Storke in the heavens knowes her appointed times, and the Turtle, and the Crane, and the Swallow obſerve the time of their comming, but my people know not the judg<g ref="char:EOLhyphen"/>ment of the Lord:</hi> where God upbraids the peo<g ref="char:EOLhyphen"/>ple of their ſupineſſe, and the not foreſeeing their imminent dangers, from Creatures that are without all underſtanding. So our Savi<g ref="char:EOLhyphen"/>our Chriſt (Mat. 6.) bids his diſciples, <hi>Conſi<g ref="char:EOLhyphen"/>der the Fowles of the are, and the Lilies of the field,</hi> and ſo caſt themſelves upon Gods provi<g ref="char:EOLhyphen"/>dence. Againe, 'tis ſaid 1. Cor. 11 14. <hi>Doth not even nature it ſelf teach you, that if a man have long haire</hi> &amp;c. The grace of God ſuppoſes na<g ref="char:EOLhyphen"/>ture and the Scripture teaches it not but takes it for granted, that we know whatſoever of na<g ref="char:EOLhyphen"/>ture may be known by the light therof.</p>
+               <p n="6">6. <hi>Metaphyſicks.</hi> This is the nobleſt of all ſciences, that contemplates upon the nature of God, his attributes and his workes, and on thoſe ſpirituall ſubſtances the Angels. It tells us how the divine nature is united to the hu<g ref="char:EOLhyphen"/>mane in Chriſt, and how to confute the Pa<g ref="char:EOLhyphen"/>piſts
+<pb n="28" facs="tcp:62339:18"/>in their vanity of Tranſubſtantiation, their <hi>Quantitas ſine extenſione,</hi> their <hi>Corpus ſine loco,</hi> their <hi>materia ſine formâ,</hi> their Accidents with<g ref="char:EOLhyphen"/>out a Subject. Laſtly it helps much for the ex<g ref="char:EOLhyphen"/>plaining thoſe great myſteries of predeſtinati<g ref="char:EOLhyphen"/>on, regeneration. and Juſtification by faith in Chriſt.</p>
+               <p n="7">7. <hi>Mathematicks,</hi> As there is both pro<g ref="char:EOLhyphen"/>fit and delight in them, ſo they are exceeding neceſſary to attaine other Arts more clearly and demonſtratively; but eſpecially tend to the ſtudy of divinity: For they are (as the Plato<g ref="char:EOLhyphen"/>niſts ſtyle them) <hi>Diſciplinae Purgatoriae,</hi> whilſt they take the mind off from groſſer materiall things, and many irrationall deſires, and ſo ren<g ref="char:EOLhyphen"/>der it moſt fit for the contemplation of things that are more divine. Of what uſe they are of for the underſtanding and interpreting holy Scripture, <hi>St. Auſtin</hi> l. 2. <hi>c.</hi> 16. <hi>de Doct. Chr.</hi> Iargly declares: Shewing that through the ig<g ref="char:EOLhyphen"/>norance of Muſick, many things are not well underſtood, as being metaphorically and my<g ref="char:EOLhyphen"/>ſtically put in the Scriptures. He inſtances in many examples and reiterates this his opi<g ref="char:EOLhyphen"/>nion very fully in the ſame book <hi>c.</hi> 37. So Je<g ref="char:EOLhyphen"/>rome is of opinion, that the knowledge of num<g ref="char:EOLhyphen"/>bers is of great virtue for underſtanding the myſteries of the Scripture. In which place alſo,
+<pb n="29" facs="tcp:62339:18"/>where he ſpeakes that, hee aſſerts, that Geo<g ref="char:EOLhyphen"/>metry is of great uſe to Divines. And again St. <hi>Auſtin</hi> in the place forementioned ſays Muſick is very neceſſary for one that preacheth Chriſt: adding withall, that Divines ſhould be very well inſtructed in Geography. Greg. Nazianzene knowing that right well, does highly commend his Maſter, for his being ſo very well skil'd in Aſtronomy, Geometry, Arithmetick, and other Mathematicall Sci<g ref="char:EOLhyphen"/>ednes.</p>
+               <p>How can a Divine without Geometry au<g ref="char:EOLhyphen"/>ſwere an Atheiſticall Julian, or a ſcoffing Lu<g ref="char:EOLhyphen"/>cian, that laugh at the arke for a Moſaicall fig<g ref="char:EOLhyphen"/>ment, to be reported to containe <hi>Noah</hi> with his whole family, and all ſorts of living Crea<g ref="char:EOLhyphen"/>tures beſides? Yet Euteon, an excellent Ma<g ref="char:EOLhyphen"/>thematician has demonſtrated to be there not only ſpace enough for them all, but alſo to containe a twelvemonths victuals for them.</p>
+               <p>Again. How can a Divine without Aſtro<g ref="char:EOLhyphen"/>nomy tell the Eclyps, the Chronology of the Scripture; and what it ſpeakes concerning the conſtellations of heaven, the Sunns degrees, the ſun and moons courſe, of which ſpeakes <hi>Iob</hi> 9.9. &amp; 5.38. <hi>Amos ch.</hi> 5. <hi>v,</hi> 8. As alſoe the <hi>Prophet Iſaiah, St. Mathew,</hi> and others, It may therfore ſhame a divine to be ignorant of Aſtro<g ref="char:EOLhyphen"/>nomy,
+<pb n="30" facs="tcp:62339:19"/>that by its ſtars, leads us (as it did of old the wiſe men) to Chriſt to worſhip him.</p>
+               <p>In ſhort, all other ſubordinate Sciences are of very great uſe to ripen our reaſons, &amp; heigh<g ref="char:EOLhyphen"/>ten them to contemplate the wiſdome of the Creator in his beautifull creation of all things, And as a bladder if not blowne is uſeleſſe, and if with wind is more ready for any uſe; :So the Arts and Sciences ſharpen our faculties, and proportion them for greater things.</p>
+               <p n="3">3. <hi>Hiſtory,</hi> and that for theſe foure reſpects.</p>
+               <p n="1">1. Becauſe there are many alluſions in the bookes of Ezra, Nehemiah, and Eſther to the Cuſtomes of the Perſians: many paſſages in the Prophets illuſtrable out of the hiſtoryes of the times and places to which they referre, many expreſſions in the New Teſtament beſt expli<g ref="char:EOLhyphen"/>cable out of the Roman Laws and Antiquities. Many paſſages exquiſitely paralle'd in humane Authors, and receiving much light from them as Mr. Gataker has obſerved. Furthermore, the hiſtoryes of the Scripture, and them iracles of Moſes, of Chriſt and his Apoſtles, may even out of Heathen writters be confirmed (and a teſtimony from Adverſaries is of great validi<g ref="char:EOLhyphen"/>ty) as has been largly prov'd by Mornay, and Grotius <hi>de veritate Chr. Religionis.</hi> As the moſt learned Dr <hi>Reynolds</hi> hints in a ſermon of his.</p>
+               <pb n="31" facs="tcp:62339:19"/>
+               <p n="2">2. Becauſe, the Propheticall Scriptures of the four Empires, of the Turke and Pope, and various ſtate of the Church cannot be under<g ref="char:EOLhyphen"/>ſtood without hiſtory. As alſo the knowledge of times by the <hi>Olympiads,</hi> the <hi>Faſti conſulares,</hi> and other ſtanding wayes of computation are exceeding neceſſary to the exact diſtinguiſhing and digeſting of ſacred Chronology, and of the occurrences of Scripture to their proper times, as Auſtin hath noted <hi>l.</hi> 2. <hi>b.</hi> 28. <hi>de doct. xtina.</hi>
+               </p>
+               <p n="3">3. Becauſe Hiſtory adds much to the un<g ref="char:EOLhyphen"/>derſtanding of antient writers, and without Eccleſiaſticall hi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ory firſt read, the Fathers cannot be.</p>
+               <p n="4">4. Laſtly, Becauſe the Hiſtory of all times is a theatre to behold the ſingular providence of God, that continually watches o're his Church, and takes vengeance on the enemyes thereof.</p>
+               <p>Now as to <hi>Claſſicall Authors,</hi> we ſuppoſe them to be taught every Scholar in his mino<g ref="char:EOLhyphen"/>rity. The which, though a Preacher is not to mix with divinity, ſo as to ſtuffe up his Ser<g ref="char:EOLhyphen"/>mon with quotations and ſcraps of ſentences out of them: yet by his preaching it will ap<g ref="char:EOLhyphen"/>pear whether he ever read them or no. Thus young men are taught to dance, not ſo much for to tread ſuch a meaſure of ſteps to the tune
+<pb n="32" facs="tcp:62339:20"/>play'd, as to carry their bodies well at all times and places; So that you may eaſily ſee whether any one has been t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uht that Art, (though he makes not Coupes before you) by the neat and gracefull depo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tment of his body. Now how far <hi>Claſſicall Authors</hi> may advantage a divine for promoting Chriſtianity in preaching, we may fairly gueſſe from Julian the Apoſtate: who in his Epiſtle to Iamblichus tacitely hints that he ſhould forbid the Chriſtians to inter<g ref="char:EOLhyphen"/>pret publickly the antient authors, as Homer, Heſiod, Demoſthenes, Herodotus, Thucydides, Iſocrates, Lyſias, and the like; leaſt from thence they might perſwade the Gentiles to Chriſti<g ref="char:EOLhyphen"/>an holyneſſe. That ſo being deſtitute of all eloquence, they might be leſſe able to winne upon the minds of the Gentiles.</p>
+               <p>Laſtly. As to the <hi>Civil Law,</hi> it refers eſ<g ref="char:EOLhyphen"/>pecially to the Scripture, and without it a di<g ref="char:EOLhyphen"/>vine can't well and clearly explain adoption, juſtification, the power of the keys, and very many heads in divinity; And how much it is neceſſary, the Prudent, learned and pious Mr. <hi>Barlow,</hi> now Provoſt of <hi>Queens Coll.</hi> in Oxford has judiciouſly pointed out in a Manuſcript, that <hi>I</hi> have ſeen, very frequent in the hands of others. I will not now ſpeak of its prayſes, that it whets, directs, cleares and confirmes our rea<g ref="char:EOLhyphen"/>ſon;
+<pb n="33" facs="tcp:62339:20"/>It is the Seminary of wiſdome, and the ſtorehouſe of all prudence, and of ſo neer affi<g ref="char:EOLhyphen"/>nity to divinity, that they who take de<g ref="char:EOLhyphen"/>grees in it before they doe in Theology have (according to ancient cuſtome) higher privi<g ref="char:EOLhyphen"/>ledges then others. I am confident Mr. Calvin had never arrived to that maturity without it.</p>
+               <p>In concluſion, I contend not for the know<g ref="char:EOLhyphen"/>ledge of the whole Encyclopedy to be in a mi<g ref="char:EOLhyphen"/>niſter, as though none were to enter into that office, but what runne through it all: But I ſay it prepares men for divinity, and is to be pre<g ref="char:EOLhyphen"/>miſed. In a word, Every one ſhould be initia<g ref="char:EOLhyphen"/>ted in ſecular learning: It is a ſtock to graft di<g ref="char:EOLhyphen"/>vinity on, a better blue to the taking of the right black: And <hi>I</hi> wiſh all firſt well ſtudied Humanity, that ſo they may be the abler Do<g ref="char:EOLhyphen"/>ctors in Divinity: whom their formalities may minde of what the dyers thereof doe, who firſt dye their cloath ith ſome inferiour Co<g ref="char:EOLhyphen"/>lour, that it may be a more <hi>perfect Purple.</hi>
+               </p>
+               <p>Now after all. If any aske me how far we ſhould enter into the ſtudy of the Tongues, Arts, Philoſophy, Hiſtory and the reſt, be<g ref="char:EOLhyphen"/>fore we take upon us the function of the mini<g ref="char:EOLhyphen"/>ſtry, and with what conditions we ſhould ſtudy them: it would require a longer conſideration,
+<pb n="34" facs="tcp:62339:21"/>and is more then <hi>I</hi> can or dare take upon me to preſcribe: And we have in this nation moſt learned men that are able and ready to adviſe and direct. Dr. <hi>Wilkins</hi> Eccleſiaſtes, and o<g ref="char:EOLhyphen"/>thers.</p>
+               <p>But if it may be lawful for me to ſpeak <hi>ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne praejudicio alterius, aut paris, aut melioris intel<g ref="char:EOLhyphen"/>ligentiae</hi> (as one ſpeakes upon the ſame matter) you may be pleaſed to call to mind that anci<g ref="char:EOLhyphen"/>ent diſtinction of knowledge in <hi>eminentem, ſuf<g ref="char:EOLhyphen"/>ficintem, &amp; mediocrem.</hi> Now for that know<g ref="char:EOLhyphen"/>ledge, which they call <hi>eminentem,</hi> It is more then is neceſſary for a miniſter. Then, That which they call <hi>ſufficient</hi> (however the word ſeem tolerable, yet as they underſtand it) is too little. A <hi>mediocrity</hi> is the beſt: which may as well be required in a miniſter, as <hi>Caſtalio</hi> in a Courtier, or <hi>Tully</hi> in an orator, or <hi>Vitruvins</hi> in a Architect. Whom we expect not to be a moſt excellent Grammarian, as was <hi>Ariſtar<g ref="char:EOLhyphen"/>chus,</hi> nor yet <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: not an abſolute Mu<g ref="char:EOLhyphen"/>ſitian, as was <hi>Ariſtoxenus,</hi> neither yet <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: not an excellent Painter as <hi>Apelles,</hi> neither yet <hi>imperitus</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: nor a Phyſitian as <hi>Hippocra<g ref="char:EOLhyphen"/>tes,</hi> nor yet <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; Thus in a mini<g ref="char:EOLhyphen"/>ſter is required not ſingular excellency in the Sciences, but a convenient mediocrity. And in order to this, it is lawfull and neceſſary to
+<pb n="35" facs="tcp:62339:21"/>ſtudy prophane learning, with this condition <hi>reſectis unguibus &amp; Capillis,</hi> ſetting aſide all vanities and ſuperfluities. For that there is both good and bad in thoſe writings, the moſt heathen Poet of them all confeſſes, (who de<g ref="char:EOLhyphen"/>ſerves eſpecially to be caſtrated)
+<q>
+                     <l>Cum legis Aedipodem, caligantemque Thyeſten,</l>
+                     <l>Colchidas &amp; Scyllas, quid niſi monſtra legis?</l>
+                     <l>Quid te vana juvant miſerae ludibria chartae?</l>
+                     <l>Hoc lege quod poſſis dicere jure Tuum est.</l>
+                     <bibl>
+                        <hi>Martial.</hi>
+                     </bibl>
+                  </q>
+               </p>
+               <p>So that, as we read in <hi>Exodus c.</hi> 4. How Zep<g ref="char:EOLhyphen"/>phora circumciſed her children, which the An<g ref="char:EOLhyphen"/>gel elſe had ſlain, according to Gods command, and by that meanes preſerved them alive: So the <hi>Carnale praeputium</hi> (as I may ſay) of ſecular learning being taken away, what remaines may be Iſraëliticall. Thus you may gather the roſes only, whilſt you let alone the briars and buſhes: and imitate the Bee, that though ſhe fall upon bitter as well as ſweet taſted flowers, ſhe leaves what is unſavoury behind, and ſucks out nothing but the hony part.</p>
+            </div>
+            <div n="4" type="argument">
+               <head>4. <hi>By the Examples of,</hi> 1. <hi>Moſes, Daniel, and Solomon in the old Teſtament.</hi>
+               </head>
+               <pb n="36" facs="tcp:62339:22"/>
+               <p>Whether the Philoſophers borrowed their Sciences from the Scripture, or that they had them otherwiſe taught them by the Holy Ghoſt (whoſe gifts, and moſt excellent gifts no doubt, they are) is not greatly materiall. But this we finde (which may ſerve for our inſtructi<g ref="char:EOLhyphen"/>on) that, Moſes and Daniel were inſtructed in them. Sure it is Moſes had a moſt Noble E<g ref="char:EOLhyphen"/>ducation in a Princes Court, and was brought up in all kind of good literature: ſays one of him.</p>
+               <q>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+               </q>
+               <p>And in the Acts of the Apoſtles, <hi>c.</hi> 7. <hi>v.</hi> 22. it is ſaid of him, <hi>Moſes was learned in all the learning of the Aegyptians, and was mighty in word and deed.</hi> Here we have firſt his intel<g ref="char:EOLhyphen"/>lectuall perfections deſcribed, in that <hi>he was learned in all the learning of the Aegyptians:</hi> and ſecondly his Civill, morall, and religious per<g ref="char:EOLhyphen"/>fections, a mighty man for <hi>oratory,</hi> a migh<g ref="char:EOLhyphen"/>ty man for <hi>action.</hi> His book of <hi>Geneſis</hi> is full of naturall philoſophy: and that he as skild in Aſtrology and Phyſicks does often appear from his lawes. And Ioſephus tells us Moſes had a ſpeciall care of the education of Chil<g ref="char:EOLhyphen"/>dren in good literature, and we find ſome evi<g ref="char:EOLhyphen"/>dence
+<pb n="37" facs="tcp:62339:22"/>of it in Scripture, where he commandeth the people to teach the words of the law dili<g ref="char:EOLhyphen"/>gently unto their Children, Deut. 6.7.</p>
+               <p>And as to <hi>Daniel,</hi> 'Tis mentioned to his ho<g ref="char:EOLhyphen"/>nour and his three Companions, that <hi>God gave them knowledge and skill in all learning and wiſ<g ref="char:EOLhyphen"/>dome: Dan.</hi> 1.17. meaning, as appears <hi>v.</hi> 4. of the ſame chap. the Caldeans learning.</p>
+               <p>Shall I ſpeak of Solomon, no doubt but Da<g ref="char:EOLhyphen"/>vid had a ſpeciall care of his education: And I think none ever arived to a higher pitch in learning. His Proverbs witneſs his <hi>Ethicks, Oeconomicks,</hi> and <hi>Politicks:</hi> And in his <hi>Eccle<g ref="char:EOLhyphen"/>ſiaſtes</hi> 'tis apparent he was a moſt excellent <hi>naturaliſt,</hi> as we read in the booke of Kings: And theſe are the copies that Preachers ſhould tranſcribe, that ſo they might bring great repu<g ref="char:EOLhyphen"/>tation to Religion.</p>
+               <p n="2">2. <hi>Paul, Stephen, Apollos, Nathaniel and Nicodemus in the new Teſtament.</hi>
+               </p>
+               <p>Paul he was brought up at the feet of a moſt learned Lawyer, inſtructed in Philoſophy and Poetry, as is manifeſt from his writings. And he quotes even Heathen Poets ſayings in the holy Scripture. As <hi>Act.</hi> 17.28. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> out of <hi>Aratus. And</hi> 1 <hi>Cor.</hi> 15.33.
+<pb n="38" facs="tcp:62339:23"/>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> out of <hi>Menander,</hi> and <hi>Titus</hi> 1.12. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c.</hi> out of <hi>Epimenides. Apollos</hi> is com<g ref="char:EOLhyphen"/>mended, in that he was <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Stephen</hi> is ſaid to have been of ſo poverful a reaſon, that he ſtopt his Adverſaries mouthes, as we may read it, <hi>Acts</hi> 6.9, 10. where it is ſaid, <hi>There aroſe certain of the Synagogue, which is cal<g ref="char:EOLhyphen"/>led the Synagogue of the Libertines, and Cyreni<g ref="char:EOLhyphen"/>ans, and Alexandrians, and of them of Cilicia, and of Aſia, diſputing with Stephen. And they were not able to reſiſt the wiſdom and ſpirit by which he ſpake.</hi>
+               </p>
+               <p>Moreover we finde it, <hi>Acts</hi> 19.9. That <hi>Paul,</hi> for two years together, did <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, in the School of one <hi>Tyrannus</hi> a Philoſopher: And (which is moſt remarkable) he wrote al<g ref="char:EOLhyphen"/>moſt the greateſt part of the New Teſtament, and brought off more Souls from Idolatry to ſerve Chriſt, then any elſe: I know not where I may not rightly ſay, becauſe he was the moſt learned of all our Saviours followers, knowing beſt how friendly and prudently to ſuit himſelf to the manners of all Nations. By the ſhield of Faith he routed the <hi>Minerva</hi> of the <hi>Grae<g ref="char:EOLhyphen"/>cians,</hi> and oppoſed every Nation with their own Weapons, whil'ſt he armed (as I may ſay) the knowledge of thoſe things they beſt knew
+<pb n="39" facs="tcp:62339:23"/>againſt them. Hereupon he confounded the Jews in their Genealogies, ſhamed the Epicu<g ref="char:EOLhyphen"/>reans, humbled the proud and ſelf-conceited Stoicks, and brought the barbarous Heathens to a Chriſtian meekneſs. So great an affinity there is (we ſee) between the Goſpel and Learning, the Church and Univerſity, the Divine and the Peripatetick.</p>
+               <p>Now although Chriſt for the moſt part choſe to himſelf Diſciples that were unlearned, leſt the fleſh might glory and be proud in Learn<g ref="char:EOLhyphen"/>ing: Whereas God, by the inſpiration of his All-powerful Spirit, can make the mouthes of Babe: and Sucklings to be inſtrumental to his glory; yet the Apoſtles, and others, had all kinde of humane Learning, as well as the know<g ref="char:EOLhyphen"/>ledge of Heavenly Myſteries; not indeed ac<g ref="char:EOLhyphen"/>quired from Schools and Univerſities, but in<g ref="char:EOLhyphen"/>fuſed into them by the Holy Ghoſt. But withal, he admitted thoſe two learned perſons, <hi>Nathanael</hi> and <hi>Nicodemus,</hi> into the number of his Diſciples, leſt he might ſeem to im<g ref="char:EOLhyphen"/>poſe upon the ſimpler ſort, as having to do with none, but whom their ſimplicity might be<g ref="char:EOLhyphen"/>tray, and 'twere no difficult thing to deceive.</p>
+               <p n="3">3. The Fathers. We read of <hi>Nazianzene,</hi> and <hi>Baſil,</hi> to have been well inſtructed in all the learning of the Gentiles, and that they
+<pb n="40" facs="tcp:62339:24"/>were publick Profeſſors of it in their Schools and Univerſities, and that they bleſt themſelves for having ſtudied humane Learning. <hi>Auſtin</hi> being eminent in all Studies, having told us, That Eloquence was taken out of prophane Writers, Well, ſays he, <hi>Aſpicimus quanto au<g ref="char:EOLhyphen"/>ro &amp; argento &amp; veſte ſuffarcinatus exierit ex Aegypto Cyprianus, Doctor Suaviſsimus &amp; Martyr beatiſſimus; quanto Lactantius, quanto Victorinus, Optatus, Hilarius, ut de vivis ta<g ref="char:EOLhyphen"/>ceam, quanto innumerabiles Graeci?</hi> He is with<g ref="char:EOLhyphen"/>al noted by his Succeſſors to have uſed all kinde of Learning in his Books <hi>de Civitate Dei,</hi> and other his Works. So <hi>Jerome</hi> alſo uſes the Poets, as well as Authorities out of <hi>Galen</hi> and <hi>Hippocrates.</hi> And what is there in the Ency<g ref="char:EOLhyphen"/>clopedy, that whole Circle of Arts, Grammar, I ogick, Rhetorick, Philoſophy, and Mathema<g ref="char:EOLhyphen"/>ticks, which is not by name commended unto us by ſome of the Fathers? And by the anci<g ref="char:EOLhyphen"/>ent Canons of the Church, (all which <hi>Bucer</hi> thought neceſſary to be reſtored, and whoſe o<g ref="char:EOLhyphen"/>pinion, if we ſhould take up, we might defend well enough) the ſtudy of Phyſick, and of the Law, was thought convenient for him that profeſſed himſelf a Divine.</p>
+            </div>
+            <div n="5" type="argument">
+               <pb n="41" facs="tcp:62339:24"/>
+               <head>5. <hi>Becauſe Learning in a Preacher is neceſſa<g ref="char:EOLhyphen"/>ry in a politick ſenſe: And to contemn it, brings in diſ-order both to Church and Common-wealth.</hi>
+               </head>
+               <p>
+                  <hi>Julian</hi> the Apoſtate (who was not noted to be bloody (for <hi>à cruore abſtinuit,</hi> ſays the Hi<g ref="char:EOLhyphen"/>ſtory) he ſought not the lives of the Prieſts, but that which was worſe, the everlaſting o<g ref="char:EOLhyphen"/>verthrow of the Prieſthood, and ſo by conſe<g ref="char:EOLhyphen"/>quence of Chriſtianity) uſed two ways to bring his purpoſe to paſs; one by taking away the maintenance of the Church, for which he had Scripture, <hi>beati pauperes;</hi> another, by taking away Learning, for which he had Poli<g ref="char:EOLhyphen"/>cy. For as <hi>Theodoret</hi> notes, <hi>Eccl. Hiſt. l.</hi> 9. he uſed to ſay, <hi>propriis pennis configimur, ex noſtris enim libris Chriſtiani armacapiunt, qui<g ref="char:EOLhyphen"/>bus in bello adverſus nos utantur,</hi> and therefore forbad them the reading of Philoſophy, and prophane Authors, (as <hi>Ammianus Marcellinus</hi> notes, <hi>l.</hi> 22. <hi>&amp;</hi> 25.) <hi>futurum ſperans ut abſ<g ref="char:EOLhyphen"/>que liberali eruditione religionem tueri ſuam non poſsint.</hi> As indeed it is impoſſible, but onely by miracle, whereof we have had but one or two examples in the primitive Church.</p>
+               <p>Now if we don't require Miniſters to be
+<pb n="42" facs="tcp:62339:25"/>learned, then any illiterate perſons, and all forts, (as now to our grief they do, and are too much countenanced) promiſcuouſly may take upon them the Office: And ſo there will be no ſecurity againſt all the evil Doctrines that ſhall be broach't by a promiſcuous, uncho<g ref="char:EOLhyphen"/>ſen company of Preachers. And hereby the door is opened to all ſuch as will pretend to extraordinary Light, and a private Spirit, who will bely the holy Spirit to cozen us, as often as they have a minde to it: And ſuch as theſe directly overthrow all Order, Government, and a publick Miniſtry. For where theſe are, the Peace of a Nation or Kingdom, muſt be as mutable as their fancy; and their Oracles, being (as they pretend) the Dictates of God always, will bring in daily new Tables of Di<g ref="char:EOLhyphen"/>vine Commandments, which in all reaſon muſt cancel the former, though never ſo firmly e<g ref="char:EOLhyphen"/>ſtabliſhed.</p>
+               <p>Next I proceed to ſhew how that the con<g ref="char:EOLhyphen"/>tempt of Humane Learning, under which we reckon the reading of the Fathers, and an<g ref="char:EOLhyphen"/>cient Commentaries, brings in a further A<g ref="char:EOLhyphen"/>taxy.</p>
+               <p>
+                  <hi>Neſtorius</hi> is noted to have fallen into his Haereſie of denying the Virgin <hi>Mary</hi> to be <hi>Deipara,</hi> becauſe having a natural Eloquence
+<pb n="43" facs="tcp:62339:25"/>of his own, and ſo thinking himſelf very Learned, ſcorned to read any Interpreters: For being puft up thereby (ſays the Hiſtory) <hi>veteribus accurate non incumbebat, ſed ſeipſum potiorem omnibus judicabat.</hi> And when the Hiſtoriographer had ſhewed wherein he might have been inſtructed in that queſtion by the Fathers, he concludes him therefore ignorant, becauſe he contemned the ancient. The <hi>Ar<g ref="char:EOLhyphen"/>rians</hi> were guilty of the ſame pride, who would not ſuffer any of the ancient Fathers to be compared with them; nor would they admit <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in any that was not of their par<g ref="char:EOLhyphen"/>ty, boaſting in the Invention of their own Opinions, and the revelation of ſuch things that never were heard nor thought of. This is that which brought in that diſorder ſpoken of by <hi>Iſaiah,</hi> to wit, <hi>The children behave them<g ref="char:EOLhyphen"/>ſelves proudly againſt the ancient, and the baſe againſt the honorable,</hi> Iſa. 3.5.</p>
+               <p>For when ſome by reaſon of a plauſible Tongue, and a great memory by nature, think themſelves to have all the Learning in the World (as did <hi>Neſtorius</hi>) and thereupon de<g ref="char:EOLhyphen"/>ſpiſe the Commentaries of the Ancient; what marvail we, if new Opinions ariſe, and ſtrange Innovations, and Tumults, and Haereſies, and Elaſphemies, and Churches ſcorned, and Au<g ref="char:EOLhyphen"/>thority
+<pb n="44" facs="tcp:62339:26"/>reviled, whilſt they ſay there is more Divinity in a Country man, then all the Uni<g ref="char:EOLhyphen"/>verſity; more of truth in one Sectariſt, then all the Councils? Thus learned <hi>Sophocles</hi> the Father is reckoned a dotard by his yong Son <hi>Sophon:</hi> But no wonder, again,
+<q>
+                     <l>Et ſua riſerunt ſaecula Meoniden,</l>
+                     <l>Homer <hi>was contemn'd whil'ſt he liv'd.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>But pray what's the ground of theſe men? Why? For fear if they did not cry down parts in men of greater knowledge and merit, they ſhould catch nothing; and they have as great a minde to be in as high an eſteem as the beſt, and therefore in Policy they cry up no<g ref="char:EOLhyphen"/>thing in a Miniſter but the Scripture, being willing to perſwade us to know no more then themſelves do, and ſo, as 'twere, to level Learning. Elſe let no man uſe Art, no man uſe Learning, no man uſe the Authority and Judgement of the Fathers, and ſo every man abounding onely in his own ſenſe, and his own fancy, all alike ignorant, we ſhall all be equal<g ref="char:EOLhyphen"/>ly regarded and preferr'd. And if there be any difference, then let him be moſt honored, that can moſt boldly <hi>perfricare frontem, &amp; ab<g ref="char:EOLhyphen"/>ſterſo
+<pb n="45" facs="tcp:62339:26"/>pudore linguas volvere,</hi> I uſe <hi>Eraſmus</hi> his words in this Argument, and not my own. And I pray what is this, but to bring in diſor<g ref="char:EOLhyphen"/>der? which hath not onely brought our de<g ref="char:EOLhyphen"/>grees into contempt, but effected, that Sheep take upon them the office of the Shepherds, Mechanicks the Function of the Miniſtry, Children and Women the practice of Preach<g ref="char:EOLhyphen"/>ing, when they hear Preaching and ſpeaking is all one, and in Sermons nothing elſe de<g ref="char:EOLhyphen"/>livered but that which is obvious to every Tongue.</p>
+               <p>Indeed they that are learned and wiſe now adays, may complain with <hi>Seneca, Nunquam potui populo placere; nam quae ego ſcio, non probat populus, quae probat populus, ego neſcio.</hi> And they that are unlearned, knowing the favor of the People is acquired by ill means, frame them<g ref="char:EOLhyphen"/>ſelves to their humors, commending them only, as the true Succeſſors of the ancient Apoſtles, who of fiſhers, &amp; unlearned crafts-men, became Teachers and Preachers to the whole World. For <hi>facit hoc illos hyacinthos,</hi> ignorance begets ſuch their eſteem. And ſome hereupon have ſaid, That if you ſhould enter into a town or ci<g ref="char:EOLhyphen"/>ty, and would know who are learned or unlear<g ref="char:EOLhyphen"/>ned in the Miniſtry, you need no other expe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>ment, then that which <hi>Pliny</hi> the ſecond taught
+<pb n="46" facs="tcp:62339:27"/>
+                  <hi>Maximus,</hi> to diſcern the unlearned Orators in <hi>Rome,</hi> that were in thoſe days in higheſt repute. <hi>Si forte</hi> (ſayes he) <hi>tranſibis per baſili<g ref="char:EOLhyphen"/>cam, &amp; ſcire voles quomodo quisque dicat, ni<g ref="char:EOLhyphen"/>hil eſt quod tribunal aſcendas, nihil eſt quod prae<g ref="char:EOLhyphen"/>beas aurem: facilis divinatio, Scito eum peſſimè dicere, qui laudatur maximè.</hi>
+               </p>
+               <p>Nor would I be underſtood to have ſpoken any thing to diſgrace the Fathers of latter me<g ref="char:EOLhyphen"/>mory, whom we ought to reverence, and read alſo. For as God hath not given all his gifts to one man, ſo neither all his excellent men to one Age. Nay we have great cauſe to thank him for thoſe very many learned and godly Preach<g ref="char:EOLhyphen"/>ers (as almoſt ever were) in this our age. But all my intent is, to ſhew the antiquity of re<g ref="char:EOLhyphen"/>ceiving the Ancient, the reaſon of their be<g ref="char:EOLhyphen"/>ing contemned, and the inconveniencies of Diſorder, Hereſie and Ignorance, that enſue thereon; that ſo we may make the reading of them, and other humane Learning, ſubſervi<g ref="char:EOLhyphen"/>ent to the ſtudy of the Scriptures, which is the end of all our Learning, whoſe enemy is Diſorder, Tumult, Faction, and Enthuſiaſme.</p>
+            </div>
+            <div n="6" type="argument">
+               <head>6. <hi>From the uſe and end of Learning.</hi>
+               </head>
+               <p>As to the uſe and end of Learning, <hi>Iſaiah,</hi> in the place firſt of all mentioned, reſolves all
+<pb n="47" facs="tcp:62339:27"/>into this, To be able <hi>to miniſter a word in ſea<g ref="char:EOLhyphen"/>ſon to him that is weary.</hi> Ignorance, and Error, and Sin, and Weakneſs, and Imper<g ref="char:EOLhyphen"/>fection, are burthens: And to eaſe them that are wearied under theſe burthens, is the end the Prophet preſcribes learning. For curioſity, vain-glory, deſire of fame, deſire of honor and riches, are the abuſes thereof. And in relation to this end, I might ſhew for a ſam<g ref="char:EOLhyphen"/>ple what uſe may be made thereof, and what arguments may be drawn to this purpoſe out of Philoſophy, and prophane Authors: As from,
+<list>
+                     <item>1. The neceſſity of Miſery and Af<g ref="char:EOLhyphen"/>fliction.</item>
+                     <item>2. The commendation of patience in bearing it.</item>
+                     <item>3. The Teſtimony of a good Conſci<g ref="char:EOLhyphen"/>ence.</item>
+                     <item>4. The Example of others.</item>
+                     <item>5. The hope of deliverance.</item>
+                     <item>6. The final cauſe or end why they ſuffer them.</item>
+                     <item>7. Laſtly, That which they call <hi>Colla<g ref="char:EOLhyphen"/>tio eventuum.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>Of all theſe the Philoſophers have ſpoken, and uſed them as comforts to thoſe that were afflicted; and they that are unacquainted
+<pb n="48" facs="tcp:62339:28"/>with them, will never be able to enlarge, and pathetically ſet home thoſe other that may be drawn out of the Goſpel.</p>
+               <p>To proceed: Miniſters are Paſtors, and ſo their duty is to preſerve their Sheep from the Wolves abroad, for which purpoſe they muſt be able, <hi>reſpondere de jure,</hi> to give accompt of their faith, in defiance of the numerous Ar<g ref="char:EOLhyphen"/>mies of Hereticks. They are to watch for their flock, and ſo muſt know all excellent arts and ways to arm them againſt all their weakneſſes within, and their enemies without: And Learning highly conduces unto this; as alſo to make them the abler to ſtrengthen the weak, confirm the ſtrong, compoſe the ſcrupulous, ſatisfie the doubtful, and readily to anſwer all caſes of Conſcience. None but a learned man can reſolve Kings and States their grand Queſtions, whether their Deſigns are agreeable to Gods holy rule, or no, and to conſult with ſuch, hath been the practice of the Princes of this Nation.</p>
+               <p>But this ſixth Argument falls in with the third: I ſay no more therefore, but onely propoſe one that uſed his Learning to a right end, ſeaſonably and ſucceſsfully. Look we upon St. <hi>Paul,</hi> that became all things to all men, that he might win them to Chriſt. How
+<pb n="49" facs="tcp:62339:28"/>ſometimes he makes himſelf an Abject, ſome<g ref="char:EOLhyphen"/>times raiſes himſelf even <hi>Lordly</hi> (as I may ſay) in Chriſt Jeſus: Sometimes he uſes the au<g ref="char:EOLhyphen"/>thority of his Apoſtleſhip, threatning the rod of ſeverity: Sometimes ſpeaks fair, play<g ref="char:EOLhyphen"/>ing rather a Nurſe, or a Mother, then an A<g ref="char:EOLhyphen"/>po<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>le: Sometimes rebukes ſharply, ſometimes mitigateth that which is hardly ſpoken: Some<g ref="char:EOLhyphen"/>times ſpeaks in part, referring the reſt to a fit<g ref="char:EOLhyphen"/>ter place. Conſider how circumſpectly he invites us to thoſe things that are <hi>Conſilii &amp; perfectionis</hi> (as they term them) being very wary not to entrap or enſnare any one: How ſometimes he bringeth not the Lords Com<g ref="char:EOLhyphen"/>mandment, but gives a profitable counſel, as a faithful diſpenſer: How fitly he applyes the teſtimonies of the Scripture to the preſent cauſe: How wiſely he openeth the cloud of an Allegory, when the letter is of little force unto godlineſs. How unto the perfect he ſpeaketh the Wiſdom of God in a Myſtery: Among the weak he knoweth nothing, but Chriſt Jeſus and him Crucified: How he hath Milk for them that are Infants, and more ſubſtantial meat for them that are elder: How he reſiſts <hi>Peter</hi> the Apoſtle to his face, and is ſuppliant to <hi>Philemon,</hi> and becometh as it were a ſurety for <hi>Oneſymus</hi> his ſervant: How
+<pb n="50" facs="tcp:62339:29"/>dealing with them that aſcribed too much to the Ceremonies of <hi>Moſes;</hi> he ſo extolleth Faith in Chriſt Jeſus, and the grace of the Goſpel, that he ſeemeth to neglect the works of Charity. Again, diſputing with them that thought it enough to be Baptized, and profeſs the Name of Chriſtianity, without repen<g ref="char:EOLhyphen"/>tance and newneſs of life: How he exhorts to good works, preferring Charity before all o<g ref="char:EOLhyphen"/>ther gifts, even before Faith, which he ſo nota<g ref="char:EOLhyphen"/>bly Preached: How diſputing at <hi>Athens,</hi> in the Street of <hi>Mars,</hi> he takes his <hi>Exordium</hi> from the Inſcription of the Altar, and citeth the Authority of <hi>Aratus,</hi> a Learned, but a Hea<g ref="char:EOLhyphen"/>then Poet; So Preaching Chriſt, that he ter<g ref="char:EOLhyphen"/>med him a man onely: But when he writeth to them which had accepted of the Goſpel, how full of Honor and Divine Majeſty are all thoſe words which he delivered of Chriſt? Finally, whil'ſt he fitteth himſelf to the cir<g ref="char:EOLhyphen"/>cumſtance of time, place and perſons, he is ſo divers, that he ſeemeth to ſpeak contrarie<g ref="char:EOLhyphen"/>ties, and to vary from himſelf, when indeed he is moſt conſtant and like himſelf.</p>
+            </div>
+            <div n="7" type="argument">
+               <head>7. <hi>Laſtly, By anſwering all Objections.</hi>
+               </head>
+               <p>Ah, but. <hi>Ad quid temporis perditio haec?</hi>
+                  <pb n="51" facs="tcp:62339:29"/>Why doe we looſe ſo much time in the Arts, in Philoſophy, in humane ſtudies, in Fathers, in Councils? Were it not better, that time were ſpent in reading the ſcriptures, which is but a ſmall volume, ſooner learned and read over then Ariſtotle, Livie, and Auſtin, and eaſy e<g ref="char:EOLhyphen"/>nough to my capacity: containing indeed all divinity, and ſufficiently furniſhing us with knowledge for the inſtruction of the people? Doth not even Origen, one of the Fathers, well ſtudied in Philoſophy, writing upon Exod. con<g ref="char:EOLhyphen"/>feſſe, that that plague of Lice and Flies, which ſo ſtinged the Aegyptians, reſembles Logick, <hi>quae acutis &amp; ſubtilibus verborum ſtimulis ani<g ref="char:EOLhyphen"/>mum circumvenit, ut deceptus nec videat, nec in<g ref="char:EOLhyphen"/>telligat?</hi> Doth not Bernard ſay, that the moun<g ref="char:EOLhyphen"/>tain upon which Lucifer ſet his ſeat, was the Hill of knowledge? Doth not <hi>Aſcle<g ref="char:EOLhyphen"/>piadorus</hi> paint well without colours, only with Cole and Chalke? And doe not many with their curious Rhetorick bring to paſſe, <hi>dum diſertè loquuntur, ut ne à diſertiſſimis in<g ref="char:EOLhyphen"/>telligantur?</hi> Did not little David, with the ſtaffe of the word of God, overthrow great Goliah with his Sword and Target, and his compleat armour of prophane knowledge and Philoſophy? Does not Picus Mirandula write of two hundred haereſies, and ſhew out of what
+<pb n="52" facs="tcp:62339:30"/>parts of Philoſophy they had their beginning?</p>
+               <p>Doth not St. Paul ſay 1 <hi>Cor.</hi> 2.4. <hi>That his ſpeech and his preaching was not with enticing words of mans wiſdome, but in demonſtration of the ſpirit and of power. Knowledge puffeth up. c.</hi> 8. <hi>v.</hi> 1. <hi>Let no man deceive you through vaine words. Eph.</hi> 5.6. <hi>Alſo beware no man ſpoil you through Phil<g ref="char:EOLhyphen"/>ſophy, and vain deceipt</hi> &amp;c. <hi>Col.</hi> 2.8. To ſay no more, what ſays Solomon in his Eccleſiaſtes, <hi>He that increaſeth knowledge, increaſeth ſor<g ref="char:EOLhyphen"/>row.</hi> c. 1.18.</p>
+               <p>Theſe, and many the like (which for brevi<g ref="char:EOLhyphen"/>ty ſake I omit,) are dayly urged againſt learn<g ref="char:EOLhyphen"/>ed Miniſters, to bring them and their degrees into contempt among the people. All which may be anſwered in one word, they argue from the abuſe of thoſe ſtudies, not from the uſe of them. And we may ſay of thoſe ſtudies, as Bernard ſpeakes of certain actions, <hi>Quas non natura, ſed uſus virtutes facit, nam ex ſe indifferentes eſſe noſcuntur: Tuum au<g ref="char:EOLhyphen"/>tem eſt, aut abutendo, autconfundendo facere vitia, aut bene ordinateque utendo, virtutes.</hi> It lieth in us either by well uſing or abuſing them, to make them, either noyſome or profitable to divinity. And therefore as many things as are written and ſpoken againſt the abuſe of them, ſo many things are urged even by the ſame fathers
+<pb n="53" facs="tcp:62339:30"/>for the good uſe and ſtudy of them. And the ſame Argument may be uſed againſt every Art and profeſſion, which be it never ſo good, there are they that will apply it to a falſe end.</p>
+               <p>Now for what St. Paul ſpeakes againſt Philo<g ref="char:EOLhyphen"/>ſophy, 'tis not to be underſtood ſimply and abſolutely, but with a reſtriction to that vain deceipt through philoſophy, which (as the text ſpeakes) is <hi>after the rudiments of the world, and not after Chriſt:</hi> when as men aſcribe to humane reaſon a ſupremacy o'er things ſuper<g ref="char:EOLhyphen"/>naturall to examine the truth of them, and will ſo miſapply their philoſophy, as to beleive noe Concluſions in divinity, but what can be de<g ref="char:EOLhyphen"/>monſtrated thence.</p>
+               <p>Nor does Solomon reject knowledge, but comparatively, in reſpect of heavenly wiſdome when the former is not made ſubſervient to the latter.</p>
+               <p>Now as to the objection againſt <hi>Rhetorick,</hi> thoſe that uſe it affectedly and unſeaſonably I can't defend; but thoſe that employ it to informe the underſtanding, or to worke on the affecti<g ref="char:EOLhyphen"/>ons, or to quicken the attention, or to help the memory, or ſome other way to pleaſe the Au<g ref="char:EOLhyphen"/>ditory for their good unto edification; who can diſapprove of? A ſermon before a learned au<g ref="char:EOLhyphen"/>ditory ought to be in a more accurate and ela<g ref="char:EOLhyphen"/>borate
+<pb n="54" facs="tcp:62339:31"/>dreſſe, and <hi>ſecundum artem</hi> (as they ſay). I confeſſe Divinity is ſo grave a ſubject that it can't admit of querpes, and jeſts, and punns (as they call them) they are abominable in a ſer<g ref="char:EOLhyphen"/>mon; for it muſt not like a young ſhe gallant be light and gariſh in her dreſs, yet as a grave matron always decent in her attire, upon a fit occaſion may wear jewels, and be adorned with more coſtly ornaments.</p>
+               <p>Furthermore, as to another objection, viz, That reaſon ſhould be ſubjected to faith, and not the Holy Ghoſt be limited by Philoſophical bounds: Who queſtions it? For we place not Philoſophy in oppoſition to divinity, but make it ſubordinate. We intend only, it ſhould make way for divinity and other profeſſions, not im<g ref="char:EOLhyphen"/>poſe upon us any thing in the ſtudy of them. Or elſ, let it inſtruct us how to treat of things, but not meddle with the things to be treated of. But ſay ſome againe: Divine myſteries ſuit not with the rules of Logick: and there are many things, eſpecially in Peripateticall phi<g ref="char:EOLhyphen"/>loſophy that are contradictory to Divinity. I anſwere. Things above reaſon don't take away reaſon, but rather perfect it, and raiſe it to high<g ref="char:EOLhyphen"/>er matters by faith. Now if we meet with any thing in philoſophy, that yeelds not to the cer<g ref="char:EOLhyphen"/>tainty of faith, we muſt impute it <hi>artificibus, non arti:</hi> which Art is to be formed to his rule
+<pb n="55" facs="tcp:62339:31"/>that is the riſe of all good. In ſhort, the miſ<g ref="char:EOLhyphen"/>takes and errors of Philoſophers are not pre<g ref="char:EOLhyphen"/>cepts or rules in Philoſophy. And Philoſo<g ref="char:EOLhyphen"/>phy neither denies nor oppoſes thoſe matters of which it treats not, but grants them to be of a higher ſpeculation. I hope no body layes <hi>Tertullians or Cyprians</hi> errors on divinity; nor <hi>Galens or Paracelſuſ</hi>'s on Phyſick. And ſo, ſuch idle objectors can't find in this any prae<g ref="char:EOLhyphen"/>text for their idleneſſe, who being not able to arrive to knowledge, are reſolved to carpe at, and declame againſt it.</p>
+               <p>Now to proceed. As the Plough-ſhare on<g ref="char:EOLhyphen"/>ly turnes up the ground, but the other parts of the Plough are neceſſary, and cauſe it to be done with greater facility; So I confeſſe, 'tis the holy ſcripture only, that turnes up the fal<g ref="char:EOLhyphen"/>low ground of our hearts, but the Arts and Philoſophy help much to apply it more readi<g ref="char:EOLhyphen"/>ly. And howſoever a wooden key may ſerve to open a doore once or twice, as well as a key of gold ('tis a Fathers ſimilitude) yet there is not only more beauty, but more profit alſo, and longer continuance in the golden key. And he is rich enough that hath wedges of Syl<g ref="char:EOLhyphen"/>ver and Gold; but he has more uſe of his mony who has it ready coyned. For in gold, and in Divinity not only good matter, but good forme
+<pb n="56" facs="tcp:62339:32"/>is alſo required to make it goe currant. We can't ſay of the Scripture, <hi>Ornari res ipſa ne<g ref="char:EOLhyphen"/>quit contenta doceri.</hi> For the very Treaſures of Egypt were turned to adorn the temple of the Lord. And ſo not only rules of Rhetorick and Logick, (but as <hi>Auſtin</hi> ſaies) <hi>Si quid Philoſo<g ref="char:EOLhyphen"/>phi bene ſenſerunt, ab iis tanquam in<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſtis poſſeſſo<g ref="char:EOLhyphen"/>ribus, in uſum noſtrum eſt vind candum.</hi> Here<g ref="char:EOLhyphen"/>upon the antient fathers, to adde more credit to theſe arts, ſaid the Philoſophers were not the true owners of them, but uſurpt the poſ<g ref="char:EOLhyphen"/>ſeſſion of them, having taken them out of the Scripture. For <hi>Auſtin, Tertullian, Euſcbius,</hi> and <hi>Caſsiodore</hi> doe affirme, that all Rhetoricians, Lo<g ref="char:EOLhyphen"/>gicians, and Philoſophers have taken all their knowledge and faculties out of the holy booke. Hereupon <hi>Crinitus</hi> ſaies, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, what elſe is Plato but Moſes ſpeaking in the Graecian language? And <hi>Her<g ref="char:EOLhyphen"/>mippus</hi> ſayes, <hi>Pythagoram multa è Moſe hauſiſſe:</hi> and <hi>Orige<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> how that in Pauls writings there are <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp; <hi>Hiatus</hi> &amp;c. And I take it for a Paradox, but it is common in the mouth of every Jew, <hi>Omnium artium, omnis ſcientiae, divinae &amp; humans, integram cognitio<g ref="char:EOLhyphen"/>nem in quinque libris Moſaicae legis contineri, diſ<g ref="char:EOLhyphen"/>ſimulatam autem &amp; occultam literis.</hi>
+               </p>
+               <p>And ſo I hope by this time, I have evinc't
+<pb n="57" facs="tcp:62339:32"/>the truth of the affertion, to all that are reaſo<g ref="char:EOLhyphen"/>nable viz. <hi>That it is neceſſary a miniſter or Preacher ſhould be skil'd in Humane Learning.</hi>
+               </p>
+               <p>Now from what has been prov'd, may be deduced theſe Confectaries:</p>
+               <p n="1">1. That Vniverſities and Schooles of learn<g ref="char:EOLhyphen"/>ing are lawfully inſtituted, being inſtrumental for breeding up of wiſe, learned, and Godly Miniſters.</p>
+               <p n="2">2. That the taking of degrees in the Arts, and Sciences (as evidencies of our knowledge) is neceſſary before we be admitted to preach.</p>
+               <p n="3">3. That no illiterate, ignorant perſon, ſhould take upon him the office of a Miniſter.</p>
+               <p n="4">4. That our Univerſity ſtatutes aiming only at this, to enforce the ſtudy of humane learning, in ſubordination to divinity are groun<g ref="char:EOLhyphen"/>ded upon a right bottome, to wit, Scripture precept, and therefore to ſwear the obſervancy of them, is lawfull.</p>
+               <p n="5">5. That ſince <hi>Formalities</hi> are but for diſtinc<g ref="char:EOLhyphen"/>tion ſake of degrees in learning, and this tends to a further ſervice of God in the Church, we may conclude they are innocent circumſtances, and not to be utterly rejected.</p>
+               <p n="6">6. Laſtly. To put downe Vniverſities, or Nurſeries of learning, is contrary to Gods holy will, for whoſe ſervice they were erected, and ſo ought to be continued.</p>
+               <pb n="58" facs="tcp:62339:33"/>
+               <p>Having now ended the Poſition, as to the argumentative part, I ſhall take upon me from hence to admoniſh two ſorts of Perſons:</p>
+               <p n="1">1. All ſuch as are ripe in learning, and fit to be employed as workmen for the harveſt of ſouls: That they doe not retain and hold back to themſelves, that which they have received to beſtow, and pour out upon others. He that is inwardy full of virtue, and adorned with the gifts of knowledge and utterance holds back, and retaines from his neighbour his right, if ei<g ref="char:EOLhyphen"/>ther through fear, or ſlothfullneſs, or indiſcreet baſe conceipt of his gifts, he tye up in unpro<g ref="char:EOLhyphen"/>fitable ſilence, that good word, which might profit many to the ſalvation of their ſouls. Whereby he not only refuſeth to ſubmit him<g ref="char:EOLhyphen"/>ſelf to that charge of St. Paul, who adjured Timothy and in him all miniſters, before God and the Lord Jeſus Chriſt, who ſhall judge both the quick and the dead at his appearing, and in his kingdome, <hi>to preach the word, to be in<g ref="char:EOLhyphen"/>ſtant in ſeaſon and out of ſeaſon, to reprove, re<g ref="char:EOLhyphen"/>buke, exhort with all long ſuffering and doctrine;</hi> 2 <hi>Tim.</hi> 4. but voluntarily they doe incurre the curſe which is ſpoken of in the Proverbs: <hi>He that withholdeth Corn the people ſhall curſe him.</hi> 11.26. Upon which words one ſays that <hi>to withhold Corn,</hi> is <hi>Praedicationis verba apud ſe retinere; In populis talis maledicetur, quia in ſo<g ref="char:EOLhyphen"/>lius
+<pb n="95" facs="tcp:62339:33"/>culpâ ſilentii, pro multis quae corrigere potuit, damnatur.</hi> And St. Paul ſpeakes in plain termes without any Allegory, <hi>Vae mihi ſi non Evange<g ref="char:EOLhyphen"/>lizavero.</hi>
+               </p>
+               <p>But notwithſtanding this adjuration, notwith<g ref="char:EOLhyphen"/>ſtanding this danger how many are there, that bury their Gifts and Talents, which were given them to the uſe and profit of others? How many clouds are there ſufficiently full of waters to moyſten our dry and ſtony earth, which will hardly part with a morning and evening dew, with a drop or two of moyſture to comfort dry Souls, or ſoften Stony hearts.</p>
+               <p>'Tis to little uſe, to have learning, and not to uſe it: <hi>recondita doctrina, ut in vaginâ gladius, niſi educatur, nihil prodeſt.</hi> It's ſaid in Iſaiah: <hi>How beautifull upon the mountaines are the feet of him that bringeth good tidings, that publiſheth peace, that bringeth good tidings, of good, that publiſheth ſalvation, that ſaith unto Lion, Thy Lord reigneth? Beautifull upon the mountatres are the feet of the miniſter.</hi> But of what Mi<g ref="char:EOLhyphen"/>niſter I pray? Of him that <hi>bringeth good ti<g ref="char:EOLhyphen"/>dings, that publiſheth peace &amp;c.</hi>
+               </p>
+               <p>And what meanes the Prophet hereby? but that there ſhould be an inſtancy, an aſſiduity in the worke of the Goſpell, the uſe and exerciſe of that learned tongue, which the Holy Choſt
+<pb n="60" facs="tcp:62339:34"/>hath given unto the miniſters to the benefit and ſalvation of others.</p>
+               <p n="2">2. All ſuch as are not yet arrived to the perfection of knowledge required in a miniſter That they would not be too haſty to pour out to others, before they have ſufficiently and a<g ref="char:EOLhyphen"/>bundantly received in for themſelves. For this is to goe to Plow with the firſt born Bul<g ref="char:EOLhyphen"/>lock, and to ſhear the firſt born ſheep, which is contrary to the Law of God <hi>Deut.</hi> 15. This is a fault greatly to be complained of, and here greatly, and eſpecially to be prevented by good counſel.</p>
+               <p>I write not this, as though any age were too forward or immature for the grace of God. For we know in this Vniverſitie (with thanks to God, be it co<g ref="char:cmbAbbrStroke">̄</g>feſſed to the honour of this place) there are a great number of young men, that doe <hi>ſupra ſenes intelligere, moribus antiquare dies, provenire tempora meritis, &amp; quod aetatis deeſt compenſare virtutibus:</hi> whoſe youth (as St. Paul ſpeakes of Timothy) let no man deſpiſe, for better are young men of good towardneſs, then they that are old, ignorant, and fooliſh.</p>
+               <p>We know <hi>Samuel</hi> was an excellent yong man, who aſſoon as ever he heard the Lord call, anſwered. <hi>Speak Lord, for thy Servant heareth:</hi> And <hi>Jeremiah</hi> was ſanctified before
+<pb n="61" facs="tcp:62339:34"/>he was born, and when he would have excuſed himſelf by his youth and ignorance, the Lord placed him over Kingdoms, and over Nations: <hi>And the Lord ſtirred up the ſpirit of yong Da<g ref="char:EOLhyphen"/>niel, to convince the wicked Judges, and to deli<g ref="char:EOLhyphen"/>ver the innocent:</hi> And it is ſaid in the Book of Wiſdom, <hi>Wiſdom is the gray hair, and an undefi<g ref="char:EOLhyphen"/>led life the old age.</hi>
+               </p>
+               <p>Now notwithſtanding theſe particular Ex<g ref="char:EOLhyphen"/>amples, it is not amiſs ſtill to urge this general rule, That we ſhould not be too haſty to enter upon the Miniſtry. For where there is a very young man, for ſearning and diſcretion an old man, it is the ſingular work of God, which others ſhould rather admire, then think to imi<g ref="char:EOLhyphen"/>tate. Much is required in a Miniſter, and ha<g ref="char:EOLhyphen"/>ving but little learning with themſelves, how can ſuch offer to teach other: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, It is an eaſie and a decent thing for him that hath learned, to teach others, but a moſt fooliſh thing to teach, before thou haſt learned ſufficiently thy ſelf. Let not ſuch then that are not arri<g ref="char:EOLhyphen"/>ved to a competency of knowledge, be too for<g ref="char:EOLhyphen"/>ward in this Exerciſe: <hi>There is</hi> (ſays <hi>Solomon</hi>) <hi>a time to be ſilent, and a time to ſpeak;</hi> firſt with ſilence to learn, afterwards to ſpeak with knowledge.</p>
+               <pb n="62" facs="tcp:62339:35"/>
+               <p>That was excellent counſel <hi>Bernard</hi> gave to a young man of his time, <hi>Si ſapis</hi> (ſays he) <hi>Con<g ref="char:EOLhyphen"/>cham te exhibebis, non Canalem:</hi> If thou bee'ſt wiſe, chooſe rather to be a Ciſtern, then a Channel or a Pipe: The Pipe or Channel no ſooner receives is water, but pours it our a<g ref="char:EOLhyphen"/>gain; but a Ciſtern parts with nothing, till it be full, and then, if any thing do ſuper<g ref="char:EOLhyphen"/>abound, communicates it to others, without any loſs to its own ſelf: He is a fool, (ſays <hi>So<g ref="char:EOLhyphen"/>lomon</hi>) that poureth out his Spirits, all his Learning and knowledge at once. Truly, it were to be wiſht, that there were more of theſe Ciſterns, and fewer of the Pipes in o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Churches, whil'ſt they now venture to make Sermons, before they have Learned to declame in the Schools, making that their beginning that ſhould be their end; like thoſe forward Youngſters, of whom <hi>Pliny</hi> the ſecond com<g ref="char:EOLhyphen"/>plains in his times, that they came into the Courts, and would begin to plead at firſt daſh, <hi>In cauſis Centumviralibus:</hi> When as before<g ref="char:EOLhyphen"/>times, <hi>nè nobiliſsimis quidem adoleſcentibus locus erat, niſi aliquo Conſulare producente,</hi> for, <hi>Summâ veneratione pulcherrimum opus celebra<g ref="char:EOLhyphen"/>tur.</hi> Hereupon it was, that the Emperour <hi>Ju<g ref="char:EOLhyphen"/>ſtinian,</hi> and the ancient Fathers of the Church of <hi>Rome,</hi> were forced to ordain <hi>leges annales</hi>
+                  <pb n="63" facs="tcp:62339:35"/>for the Miniſtry, and not to admit any one, <hi>ad ordinationem,</hi> or <hi>ad beneficium,</hi> before he came to the age of 35 years. I will adde onely that (ſomewhat like what <hi>Sereca</hi> writes of ſome at<g ref="char:EOLhyphen"/>taining unto Wiſdom) That many would prove excellent Divines, if they were not perſwa<g ref="char:EOLhyphen"/>ded they were ſo already.</p>
+               <p>This by way of <hi>Admonition:</hi> A word or two more by way of <hi>Direction,</hi> How Miniſters ſhould uſe their Learning: And that,</p>
+               <p n="1">1. <hi>Seaſonably and diſcreetly:</hi> Either when the matter they treat of, or the Auditory to whom they Preach to, do rationally call for it. As to the former, men are blameable, that ſtuff up a Sermon continually with diſtincti<g ref="char:EOLhyphen"/>ons out of Philoſophy, and Quotations out of ſeveral Authors, to tell the World they are men well read. As to the latter, they are not without fault, that without reſpect Preach a<g ref="char:EOLhyphen"/>like to all Congregations; whereas Milk is for Babes, Meat for ſtrong Men. Preach ſo in the Country, as to win the <hi>will.</hi> Preach ſo in the Vniverſity, as to convince the <hi>underſtanding;</hi> there Doctrine that is <hi>practical,</hi> here <hi>ſpecula<g ref="char:EOLhyphen"/>tive</hi> is more proper.</p>
+               <p n="2">2. <hi>To a right end:</hi> And that,</p>
+               <p n="1">1. Without a fruitleſs oſtentation of parts, to gain glory and applauſe; for this is a baſe and an unworthy end.</p>
+               <pb n="64" facs="tcp:62339:36"/>
+               <p n="2">2. Not to poyſon the Judgements, or per<g ref="char:EOLhyphen"/>vert the Conſciences of men, for this is a cur<g ref="char:EOLhyphen"/>ſed and pernicious end. Preachers muſt have a care, that is, Scholars, thoſe that are lear<g ref="char:EOLhyphen"/>ned Divines, muſt have a care they make not their depraved Reaſon a Canvaſter of the Creed, or place Learning on the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ench, to examine and judge of the myſterious Truths of Religion. They muſt not let the Hand<g ref="char:EOLhyphen"/>maid be Miſtreſs, <hi>Leah</hi> muſt not be in <hi>Rachels</hi> place, nor the Peripaton above the S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nctuary. The Arts and Sciences are as ground-colours, upon which the Gold of Divinity is to be laid. And learning to a holy man is as a gol<g ref="char:EOLhyphen"/>den Ring unto the Gem, as the moſt learned Dr. <hi>Reynolds</hi> makes the ſimilitude.</p>
+               <p>And thus much concerning this ſubject, for my own ſatisfaction, the times wherein welive, putting me upon it. I hope no man of Learn<g ref="char:EOLhyphen"/>ing will be offended with me for it; and for others, I matter not. It was wont, at the leaſt, to be tolerable, to praiſe Arts and Artſ-men at <hi>Athens.</hi> If in this our Univerſity it be other<g ref="char:EOLhyphen"/>wiſe, for my part, I ſay, with <hi>Picus Mirandula, Si turpe eſt bonas literas colere, malle<g ref="char:cmbAbbrStroke">̄</g> hanc culpa<g ref="char:cmbAbbrStroke">̄</g> ag<g ref="char:EOLhyphen"/>noſcere, quàm deprecari:</hi> If it be a fault to ſtudy Hum<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nity. I wiſh I could acknowledge it: I profeſs I will never repent of it. If any
+<pb n="49" facs="tcp:62339:36"/>If any man there be in <hi>Oxford</hi> of another Opinion, I judge him not; and yet it were not amiſs to tell him, what hath been the judgement of other men heretofore, apply it as he ſees cauſe. When <hi>Honorius</hi> the third, Biſhop of <hi>Rome,</hi> did forbid Prieſts and Cler<g ref="char:EOLhyphen"/>gy-men, the ſtudy and knowledge of the Ci<g ref="char:EOLhyphen"/>vil and Canon Law; they that lived in that time, ſaid, he dealt like the Fox, who en<g ref="char:EOLhyphen"/>deavoring in vain to reach Grapes from a high Vine, at laſt diſpraiſed them, and deſpiſed them, affirming them to be but ſharp and harſh meat: The Moral I meddle not with. And an ancient Father ſpeaking in commendation of liberal Sciences, which ſome diſpraiſed, drawing their Argument from the abuſe of them, ſays of them, No Learning is to be de<g ref="char:EOLhyphen"/>ſpiſed, for as much as all Science is <hi>de genere bonorum.</hi> But we ſhould rather account thoſe that contemn it, to be ruſtick and barbarous perſons, that would willingly have all aslike ignorant as themſelves: So that their igno<g ref="char:EOLhyphen"/>rance lying hid in the multitude, may not ea<g ref="char:EOLhyphen"/>ſily be found out and cenſured by others.</p>
+               <p>I hope theſe ſayings cannot be applyed to any in an Univerſity: For it were pity, that <hi>Learning</hi> ſhould finde any ſuch diſcourage<g ref="char:EOLhyphen"/>ment there, being already out of heart, though
+<pb n="50" facs="tcp:62339:37"/>the baſe entertainment it findes abroad. For theſe ſtudies are <hi>delicati floſculi,</hi> which favor, like a kinde and gentle air, makes flouriſh and grow; but reviling and undervaluing, like ſome Inchantment, makes them preſently draw in their head and wither.</p>
+               <p>To conclude all by way of <hi>pareneſis:</hi> In re<g ref="char:EOLhyphen"/>gard of this, as well as the glory of God: let every one that intends the miniſtry, firſt ſeek the knowledge of God, &amp; to know Jeſus Chriſt and him crucified. And as in order to this only great end, encourage one another to the ſtudy of learning, and whatſoever may ſerve for the building and edification of Gods Church. That they that have little and few Gifts and talents may not envy thoſe that have many and great: nor they that have many deſpiſe thoſe that have few. But let all with one conſent ſeek to attaine to this Gift, this excellent gift of a <hi>learned tongue,</hi> to that end and purpoſe, as we read in Iſaiah, even <hi>to Miniſter a word in ſeaſon to thoſe that are weary.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:62339:37"/>
+            <head>
+               <hi>A Catalogue of Bookes printed for, and to beſold by</hi> Richard Davis <hi>at his ſhop neer</hi> Oriell Colledge <hi>in</hi> Oxford.</head>
+            <p>
+               <hi>A Paraphraſe, and Annotations upon the whole Booke of Pſalms, by</hi> Hen. Hammond. <hi>D.D. in</hi> folio.</p>
+            <p>— <hi>A Paraphraſe, and Annotations upon all the Books of the New Teſt. in</hi> folio: <hi>the ſecond Ed.</hi>
+            </p>
+            <p>— <hi>The Practicall Catechiſme, with all other his Engliſh Treatiſes, in two volumes in</hi> 4<hi rend="sup">o</hi>
+            </p>
+            <p>— Diſſertationes quatuor, quibus Epiſcopatus Jura ex S. Scripturis &amp; Primaeva Antiquitate adſtruntur, contra ſententiam Blondelli &amp; alio<g ref="char:EOLhyphen"/>rum, 4<hi rend="sup">o</hi>.</p>
+            <p>— <hi>A review of the Paraphraſe and Annotations on the New Teſtament,</hi> 8o.</p>
+            <p>— <hi>Some proſitable directions both for Prieſt and People, in two Sermons,</hi> 8o.</p>
+            <p>— <hi>A Collection of ſeverall Replies and vindicati<g ref="char:EOLhyphen"/>ons. Publiſhed of late moſt of them in defence of the Church of Engl. in</hi> 4. <hi>volumes,</hi> 4<hi rend="sup">o</hi>.</p>
+            <p>— <hi>The Diſpatcher diſpach't, in Anſwer to a Ro<g ref="char:EOLhyphen"/>man Catholick's book, entitulated, Schiſme diſ<g ref="char:EOLhyphen"/>patcht</hi> 4<hi rend="sup">o</hi> 
+               <hi>new.</hi>
+            </p>
+            <p>— <hi>A Letter of Reſolution to ſix Queries,</hi> 12<hi rend="sup">o</hi>.</p>
+            <p>— <hi>Of Schiſme. A defence of the Church of Eng<g ref="char:EOLhyphen"/>land againſt the exceptions to the Romaniſts.</hi> 12<hi rend="sup">o</hi>.</p>
+            <p>— <hi>Of Fundamentals in a Nation referring to Pra<g ref="char:EOLhyphen"/>ctice.</hi> 12<hi rend="sup">o</hi>.</p>
+            <pb facs="tcp:62339:38"/>
+            <p>— Paraeneſis, <hi>or a ſeaſonable exhortation to all true ſons of the Church of England,</hi> 12o.</p>
+            <p>
+               <hi>A view of the Threats and Puniſhments record<g ref="char:EOLhyphen"/>ed in Scripture, Alphabetically compoſed, with ſome brief Obſervations upon ſeveral Texts, by</hi> Zach. Bogan <hi>of</hi> C.C.C. <hi>in</hi> Oxon. 8o.</p>
+            <p>—<hi>The Mirth of a Chriſtian Life, and the ſorrowes of a wicked Life,</hi> 8o</p>
+            <p>Fides Apoſtolic<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>or, A diſcourſe aſſerting the received Authours and Authority of the Apoſtles Creed: together with the Grounds and Ends of the Compoſing thereof by the Apoſtles, the ſufficiency thereof for the Rule of Faith &amp;c. With a double Appendix,</hi> 1. <hi>Touching the</hi> Athanaſian. 2. <hi>The</hi> Ni<g ref="char:EOLhyphen"/>cene <hi>Creed: by</hi> George Aſhwell, <hi>B. D.</hi> 8o.</p>
+            <p>Ailmeri M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſae Sacrae, ſeu Jonas, Jeremiae Threni, &amp; Daniel Graecè redditi carmine, 8o</p>
+            <p>Ad Grammaticen ordinariam ſupplementa quaedam. Editio 2. multis auctior. 8o.</p>
+            <p>
+               <hi>A Guide to the Holy City, or Directions and Helps to an Holy life, by</hi> John Reading <hi>B.D.</hi> 4<hi rend="sup">o</hi> Theſes quadrageſimales Philoſophiae Novae, in Scholis <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xoni<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Publicis, à Carolo Potter. 12<hi rend="sup">o</hi>.</p>
+            <p>Contemplationes Metaphyſicae, Authore Georgio Ritſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heli Bohemo, 8<hi rend="sup">o</hi>
+            </p>
+            <p>Aditus ad<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> og<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cam, Authore Samuele Smith, 8<hi rend="sup">o</hi>
+            </p>
+            <p>I lementa Log. Arthore Edw. B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erewood, 12<hi rend="sup">o</hi>.</p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ohan. Buridani Quaeſtiones in octo Libros Politico<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>um Ariſtorelis, 4<hi rend="sup">o</hi>.</p>
+            <p>Robert. Baronii Philoſophia Theologiae An<g ref="char:EOLhyphen"/>cillans, Edit. nova. 12<hi rend="sup">o</hi>.</p>
+            <pb facs="tcp:62339:38"/>
+            <p>Rob. Baronii Metaphyſica. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dit. nova, 12o.</p>
+            <p>
+               <hi>The hurt of ſedition, by</hi> S. John Cheek, 4o.</p>
+            <p>
+               <hi>The Chriſtian Race, a Sermon on</hi> Heb. 12.1. <hi>by</hi> Tho. Barton, 4<hi rend="sup">o</hi>.</p>
+            <p>
+               <hi>A Sermon on</hi> 2<hi rend="sup">d</hi> 
+               <hi>of Tim. c.</hi> 3. <hi>v.</hi> 1, 2, 3, 4, 5. <hi>by</hi> Will. Chillingworth, 4<hi rend="sup">o</hi>.</p>
+            <p>
+               <hi>A funeral Ser<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on</hi> Phil. 1.23. <hi>by</hi> Joh. Millet, 4<hi rend="sup">o</hi>.</p>
+            <p>
+               <hi>A funeral Sermon on</hi> 1 Cor. 7.29, 30, 31. <hi>by</hi> Tho. Hauskins 8<hi rend="sup">o</hi>.</p>
+            <p>
+               <hi>A Nomenclator of ſuch Tracts and Sermons as have been printed or tranſlated into Engliſh upon any place or book of the Scripture, now to be had in the Publick Libr. in</hi> Oxf. <hi>by</hi> Jo. Vernevill. 12o</p>
+            <p>
+               <hi>The Vaulting-Maſter, or the Art of Vaulting il<g ref="char:EOLhyphen"/>luſtrated with</hi> 16 <hi>braſs ſigures, by</hi> Will. Sto<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ks 4o.</p>
+            <p>Ramus Olivae, Concio habita ad Clerum in Templo Pe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tae Mariae Oxon, 8<hi rend="sup">o</hi>. Junii pro-in<g ref="char:EOLhyphen"/>cho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndo Te<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mino. A Joh. Wall, T.D. &amp; Col. Aedis Chriſti Praebendario. 8<hi rend="sup">o</hi>
+            </p>
+            <p>
+               <hi>A briefe Treatiſe touching the preſervation of the Eye-ſight, by</hi> Walter <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aley, <hi>ſometimes Fel<g ref="char:EOLhyphen"/>low of</hi> N. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oll. Regius Profeſſor <hi>in Phyſick, and Phyſitianto Queen</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lizabeth. 8<hi rend="sup">o</hi>.</p>
+            <p>
+               <hi>Eſſaies and Obſervations, wherein many of the humours and diſeaſes of the Age are diſcovered and characterized, by a ſtudent in Theology</hi> 8o.</p>
+            <p>Port a Moſis, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive Diſſertationes aliquot à R. Moſe Maimonide. Nunc primum Arabicè prout ab ipſo Authore conſcriptae ſunt, &amp; Latinè editae. Unà cum Appendice Notarum Miſcellanea, o<g ref="char:EOLhyphen"/>perâ
+<pb facs="tcp:62339:39"/>&amp; ſtudio Edvardi Pocockii, Linguae Hebr: &amp; Arab: in Acad Oxon. Profeſſoris 4<hi rend="sup">o</hi>.</p>
+            <p>Idea Trigonometriae Demonſtratae. Item Praelectio de Cometis. Er Inquiſitio in Bul<g ref="char:EOLhyphen"/>lialdi Aſtronomiae Philolaicae Fundamenta, Au<g ref="char:EOLhyphen"/>thore Setho Wardo, in Acad. Oxon. Aſtrono<g ref="char:EOLhyphen"/>miae Profeſſore Saviliano. 4<hi rend="sup">o</hi>.</p>
+            <p>— In Thomae Hobbii Philoſophiam exer<g ref="char:EOLhyphen"/>citatio Epiſtolica, 8<hi rend="sup">o</hi>.</p>
+            <p>Delphi Phaenicizantes, &amp;c. Authore <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dm. Dickinſono, Med. Doc. &amp; Mertonen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Coll. Socio, in 8<hi rend="sup">o</hi>.</p>
+            <p>Logicae Artis Compendium, Authore Rob. Sanderſon, Coll. Lincoln. in almâ Oxonienſi quondam Socio, &amp; in Eadem Academia Sac<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ae Theol. poſte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Profeſſore Regio. Edit. 5a. 12<hi rend="sup">o</hi>.</p>
+            <p>
+               <hi>A Paraph. on</hi> Habakkuk, <hi>by Dr.</hi> Stoaks. 4<hi rend="sup">o</hi>.</p>
+            <p>
+               <hi>A Chriſtian Legacy,</hi> viz.
+<list>
+                  <item>1. <hi>A preparation for Death, &amp;c.</hi>
+                  </item>
+                  <item>2. <hi>A Conſolation againſt Death, &amp;c.</hi>
+                  </item>
+               </list> 
+               <hi>by</hi> Edward Hyde, D. D. 12<hi rend="sup">o</hi>.</p>
+            <p>
+               <hi>Chriſt and his Church: or Chriſtianity ex<g ref="char:EOLhyphen"/>plain'd, under</hi> 7. <hi>Evangelical and Eccleſiaſtical Heads: With a Juſtification of the Church of</hi> Engl. <hi>according to the true principles of Chriſtian Religion, and Chriſtian Communion.</hi> 4o. 1658.</p>
+            <p>— <hi>A Chriſtian Vindication of Truth a<g ref="char:EOLhyphen"/>gainſt Error, concerning</hi> 7 <hi>Controverſies; moſt between the Church of</hi> England, <hi>and the Ro<g ref="char:EOLhyphen"/>maniſts, in</hi> 12<hi rend="sup">o</hi> 
+               <hi>new.</hi>
+            </p>
+            <pb facs="tcp:62339:39"/>
+            <p>Ric. Gardiner Herefordenſis, Specimen O<g ref="char:EOLhyphen"/>ratorium. 12<hi rend="sup">o</hi>.</p>
+            <list>
+               <item>
+                  <hi>The City Match.</hi> 4<hi rend="sup">o</hi>. <hi>both long ſince.</hi>
+               </item>
+               <item>
+                  <hi>The Amarous War.</hi> 4<hi rend="sup">o</hi>. <hi>both long ſince.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>written by</hi> J.M. <hi>St. of</hi> Ch. Ch. <hi>Oxon.</hi>
+            </p>
+            <p>Ovid's <hi>Invective againſt</hi> Ibis, <hi>tranſlated into Ergliſh Verſe, and the Hiſtories therein briefly ex<g ref="char:EOLhyphen"/>plained, with Natural, Moral, Poetical, Political, Mathematical, and Theological Applications: by</hi> Jo: Jones, <hi>Teacher of a private School in</hi> Here<g ref="char:EOLhyphen"/>ford. 8<hi rend="sup">o</hi>.</p>
+            <p>
+               <hi>Two Aſsize Sermons, Preached at</hi> Reading <hi>and</hi> Abingdon <hi>in</hi> Berks: <hi>with two others preach<g ref="char:EOLhyphen"/>ed at St.</hi> Maries in <hi>Oxford, by</hi> Jo: Hinckley, <hi>Miniſter of the Goſpel at</hi> Colſehill <hi>in</hi> Berks. 12<hi rend="sup">o</hi>
+            </p>
+            <p>
+               <hi>The Devil of</hi> Maſcon, <hi>or a true Relation of what an Unclean Spirit did and ſaid at</hi> Maſcon <hi>in</hi> Burgundy, <hi>atteſted by ſeveral perſons of Emi<g ref="char:EOLhyphen"/>nency, both for Learning and Piety, the third E<g ref="char:EOLhyphen"/>dition.</hi> 8<hi rend="sup">o</hi>.</p>
+            <p>Burgerſdicii Metaphyſica. 12<hi rend="sup">o</hi>.</p>
+            <p>
+               <hi>Directions for a godly life: eſpecially for com<g ref="char:EOLhyphen"/>municating at the Lords Table, by</hi> H. Tozer <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>the ſixth Edition.</hi> 12<hi rend="sup">o</hi>.</p>
+            <p>Hen: Savilii Oratio coram Reginâ Elizabe<g ref="char:EOLhyphen"/>thâ Oxoniae habita, &amp;c. 4<hi rend="sup">o</hi>.</p>
+            <p>Juelli Apologia Eccleliae Anglican: Graeco<g ref="char:EOLhyphen"/>lat: 8<hi rend="sup">o</hi>.</p>
+            <p>Enchiridion Botanicum: <hi>Or a compleat Her<g ref="char:EOLhyphen"/>bal, containing the ſum of what hath been hither<g ref="char:EOLhyphen"/>to
+<pb facs="tcp:62339:40"/>publiſhed, either by ancient or modern Authors, both Galenical and Chymical, touching Trees, Shrubs, Plants, Fruits, Flowers, &amp;c. in an Al<g ref="char:EOLhyphen"/>phabetical order, in which are diſtinguiſh'd all that are in the Phyſick Garden in</hi> Oxford, <hi>ſhew<g ref="char:EOLhyphen"/>ing their Place, Time, Names, Kindes, Tempe<g ref="char:EOLhyphen"/>rature, Vertues, Uſe, Doſe, Danger, and Anti<g ref="char:EOLhyphen"/>dotes, &amp;c. by</hi> Ro: Lovell, <hi>St: of Ch: Ch:</hi> Oxon. <hi>in</hi> 12o.</p>
+            <p>
+               <hi>The Circles of Proportion, and the Horizon<g ref="char:EOLhyphen"/>tal Inſtrument, &amp;c. both invented, and the uſes of both written in Latine, by</hi> W. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ughtred, Ae<g ref="char:EOLhyphen"/>tonenſis. <hi>Tranſlated into Ergliſh, and ſet forth for the publique benefit, by</hi> W.F. <hi>And now by the Authors conſent reviſed, corrected, and freed from all miſtakes in the former Edition: And alſo much amplified and explained, by <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> H. <hi>Gent. with braſs Figures.</hi> 8<hi rend="sup">o</hi>. <hi>New.</hi>
+            </p>
+            <p>
+               <hi>The Natural Mans inability to attain a ſuf<g ref="char:EOLhyphen"/>ficient knowledge of</hi> In-dwelling Sin, <hi>in three Sermons. Preached at St.</hi> Maries <hi>in</hi> Oxon, <hi>by</hi> Henry Hurſt <hi>M. A. and Fellow of</hi> Merton Col<g ref="char:EOLhyphen"/>ledge. 8<hi rend="sup">o</hi>.</p>
+            <p>Exercitationes duae. Prima de Hyſtericâ Paſ<g ref="char:EOLhyphen"/>ſione: ſecunda de affectione Hypochondriacâ. Authore Nathaniele Highmoro, Artium &amp; Medicinae Doctore 8<hi rend="sup">o</hi>.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
